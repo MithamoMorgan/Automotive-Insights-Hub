@@ -32,5 +32,16 @@ My data has 10 columns:
 * Check for logical consistency<br>
 
 ->Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Preprocessing.ipynb) to the cleaning process.
+## Key Questions:
+1.Which car make is most common?
+2.How has distribution of car prices varied over the years?
+3.What is the average engine displacement across different car make?
+4.What is the average price of cars based on their usage origin?
+5.Which car make has the highest average price?
+6.Is there a correlation between engine displacement and price?
+7.Is there a relationship between age of the car and price?
+8.Which car make are the most effective ie lowest price per cc?
+9.Is there a trend towards larger or smaller engine displacement over the years?
+10.Which manufacturers have a widest range of price for their cars?
 ## Data Analysis
 Work in progress...

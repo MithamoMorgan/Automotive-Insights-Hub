@@ -10,15 +10,15 @@ In this digital realm, I harness the power of data to uncover trends, make disco
 ## Data Collection
 I scraped data used in this project from [kai and karo](https://www.kaiandkaro.com/) a trusted car dealer destination for a wide range of cars in Kenya.
 My data has 10 columns:
-...Vehicle
-...Manufacturer
-...Model
-...Transmission Type
-...CC
-...Year
-...Car
-...Age
-...Usage
+*...Vehicle</br>
+...Manufacturer</br>
+...Model</br>
+...Transmission Type</br>
+...CC</br>
+...Year</br>
+...Car</br>
+...Age</br>
+...Usage</br>
 ...Origin
 ...Price
 ...Price Range

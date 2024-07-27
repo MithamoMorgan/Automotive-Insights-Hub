@@ -11,7 +11,7 @@ The objective of this analysis is to investigate the pricing patterns of cars in
 * Tableau: Visual analytics.
 ## Data Collection
 I scraped data used in this project from [kai and karo](https://www.kaiandkaro.com/) a trusted car dealer destination for a wide range of cars in Kenya.
-Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/kai%20_karo%20_data_scraping.ipynb)</br>
+Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/kai%20_karo%20_data_scraping.ipynb).</br>
 My data has 10 columns:
 * Vehicle</br>
 * Manufacturer</br>

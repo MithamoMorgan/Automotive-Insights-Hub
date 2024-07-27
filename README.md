@@ -30,5 +30,6 @@ My data has 10 columns:
 * Check for duplicates
 * Validate data types
 * Check for logical consistency
+Here is the [code]() to the cleaning process.
 ## Data Analysis
 

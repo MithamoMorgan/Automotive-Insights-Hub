@@ -12,13 +12,13 @@ I scraped data used in this project from [kai and karo](https://www.kaiandkaro.c
 My data has 10 columns:
 * Vehicle</br>
 * Manufacturer</br>
-...Model</br>
-...Transmission Type</br>
-...CC</br>
-...Year</br>
-...Car</br>
-...Age</br>
-...Usage</br>
-...Origin
-...Price
-...Price Range
+* Model</br>
+* Transmission Type</br>
+* CC</br>
+* Year</br>
+* Car</br>
+* Age</br>
+* Usage</br>
+* Origin
+* Price
+* Price Range

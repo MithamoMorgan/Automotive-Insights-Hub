@@ -1,0 +1,1429 @@
+Vehicle,Manufacturer,Model,Transmission Type,CC,Year,Car Age,Usage Origin,Price,Price Range
+Honda Vezel,Honda,Vezel,Automatic,1500.0,2017,7,Foreign Used,2689999.0,2M-3M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2017,7,Kenyan Used,1689999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2010,14,Kenyan Used,1499999.0,1M-2M
+Toyota Kluger,Toyota,Kluger,Automatic,3500.0,2003,21,Kenyan Used,879999.0,500k-1M
+Mercedes Benz C250,Mercedes Benz,C250,Automatic,2000.0,2017,7,Foreign Used,4649999.0,3M-5M
+Audi A5,Audi,A5,Automatic,2000.0,2017,7,Foreign Used,4449999.0,3M-5M
+Bmw X4,Bmw,X4,Automatic,2000.0,2016,8,Foreign Used,5099999.0,5M-10M
+Land Rover Discovery V,Land Rover,Discovery V,Automatic,3000.0,2017,7,Foreign Used,9499999.0,5M-10M
+Toyota Premio,Toyota,Premio,Automatic,1800.0,2008,16,Kenyan Used,799999.0,500k-1M
+Nissan Note,Nissan,Note,Automatic,1200.0,2012,12,Kenyan Used,679999.0,500k-1M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2000.0,2017,7,Kenyan Used,3749999.0,3M-5M
+Suzuki Swift,Suzuki,Swift,Automatic,1200.0,2012,12,Kenyan Used,619999.0,500k-1M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2008,16,Kenyan Used,785000.0,500k-1M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2011,13,Kenyan Used,619999.0,500k-1M
+Bmw X5,Bmw,X5,Automatic,3000.0,2014,10,Kenyan Used,4749999.0,3M-5M
+Mitsubishi Rvr,Mitsubishi,Rvr,Automatic,1800.0,2011,13,Kenyan Used,1379999.0,1M-2M
+Honda Vezel,Honda,Vezel,Automatic,1500.0,2017,7,Foreign Used,2699999.0,2M-3M
+Toyota Probox,Toyota,Probox,Automatic,1500.0,2019,5,Kenyan Used,1449999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2007,17,Kenyan Used,2199999.0,2M-3M
+Mazda Cx3,Mazda,Cx3,Automatic,2000.0,2017,7,Foreign Used,2649999.0,2M-3M
+Bmw X1,Bmw,X1,Automatic,2000.0,2014,10,Kenyan Used,1999999.0,1M-2M
+Toyota Corolla 100,Toyota,Corolla 100,Manual,1500.0,1992,32,Kenyan Used,329999.0,0-500k
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,2000.0,2013,11,Kenyan Used,1749999.0,1M-2M
+Bmw 530I,Bmw,530I,Automatic,2000.0,2017,7,Foreign Used,4599999.0,3M-5M
+Toyota Nze,Toyota,Nze,Automatic,1800.0,2000,24,Kenyan Used,449999.0,0-500k
+Toyota Allion,Toyota,Allion,Automatic,1800.0,2008,16,Kenyan Used,829999.0,500k-1M
+Audi A5,Audi,A5,Automatic,2000.0,2013,11,Kenyan Used,2049999.0,2M-3M
+Bmw 116I,Bmw,116I,Automatic,1600.0,2014,10,Kenyan Used,1299999.0,1M-2M
+Volvo V60,Volvo,V60,Automatic,1600.0,2015,9,Kenyan Used,1699999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2017,7,Foreign Used,3149999.0,3M-5M
+Mercedes Benz A180,Mercedes Benz,A180,Automatic,1500.0,2012,12,Kenyan Used,849999.0,500k-1M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2017,7,Foreign Used,1349999.0,1M-2M
+Lexus Rx450H,Lexus,Rx450H,Automatic,3500.0,2010,14,Kenyan Used,2149999.0,2M-3M
+Volkswagen Golf Gli,Volkswagen,Golf Gli,Automatic,1600.0,1996,28,Kenyan Used,349999.0,0-500k
+Volkswagen Golf R,Volkswagen,Golf R,Automatic,2000.0,2017,7,Foreign Used,3649999.0,3M-5M
+Nissan Juke,Nissan,Juke,Automatic,1500.0,2015,9,Kenyan Used,1499999.0,1M-2M
+Daihatsu Mira,Daihatsu,Mira,Automatic,660.0,2017,7,Foreign Used,849999.0,500k-1M
+Toyota Crown Athlete,Toyota,Crown Athlete,Automatic,2500.0,2015,9,Kenyan Used,2299999.0,2M-3M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2017,7,Foreign Used,3349999.0,3M-5M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2017,7,Foreign Used,2399999.0,2M-3M
+Mazda Atenza,Mazda,Atenza,Automatic,2000.0,2017,7,Foreign Used,2549999.0,2M-3M
+Nissan Rich,Nissan,Rich,Manual,2400.0,2015,9,Kenyan Used,1699999.0,1M-2M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,2000.0,2020,4,Kenyan Used,3549999.0,3M-5M
+Suzuki Gsx,Suzuki,Gsx,Manual,750.0,2007,17,Kenyan Used,849999.0,500k-1M
+Audi Sq5,Audi,Sq5,Automatic,3000.0,2015,9,Kenyan Used,4999999.0,3M-5M
+Bmw 318I,Bmw,318I,Automatic,2000.0,2003,21,Kenyan Used,739999.0,500k-1M
+Land Rover Defender 110,Land Rover,Defender 110,Automatic,3000.0,2024,0,Foreign Used,22999999.0,Above 10
+Bmw 523I,Bmw,523I,Automatic,2000.0,2011,13,Kenyan Used,1649999.0,1M-2M
+Subaru Impreza G4,Subaru,Impreza G4,Automatic,2000.0,2016,8,Kenyan Used,2199999.0,2M-3M
+Mazda 6,Mazda,6,Automatic,2000.0,2014,10,Kenyan Used,1999999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2019,5,Foreign Used,3749999.0,3M-5M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,2000.0,2016,8,Kenyan Used,3249999.0,3M-5M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2014,10,Kenyan Used,3349999.0,3M-5M
+Bmw 118I,Bmw,118I,Automatic,1500.0,2017,7,Foreign Used,2349999.0,2M-3M
+Volkswagen Passat,Volkswagen,Passat,Automatic,2000.0,2006,18,Kenyan Used,699999.0,500k-1M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2013,11,Kenyan Used,2299999.0,2M-3M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2007,17,Kenyan Used,969999.0,500k-1M
+Land Rover Discovery Iv,Land Rover,Discovery Iv,Automatic,3000.0,2013,11,Kenyan Used,4549999.0,3M-5M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2017,7,Foreign Used,1419999.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1500.0,2017,7,Foreign Used,1449999.0,1M-2M
+Toyota Noah,Toyota,Noah,Automatic,2000.0,2017,7,Foreign Used,2849999.0,2M-3M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2017,7,Kenyan Used,4599999.0,3M-5M
+Honda Fit Shuttle,Honda,Fit Shuttle,Automatic,1500.0,2017,7,Foreign Used,1649999.0,1M-2M
+Audi A4,Audi,A4,Automatic,2000.0,2013,11,Kenyan Used,1549999.0,1M-2M
+Nissan Ad Van,Nissan,Ad Van,Automatic,1500.0,2013,11,Kenyan Used,489999.0,0-500k
+Mazda Cx3,Mazda,Cx3,Automatic,1500.0,2014,10,Kenyan Used,1489999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2015,9,Kenyan Used,1849999.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2016,8,Kenyan Used,1279999.0,1M-2M
+Honda Fit,Honda,Fit,Automatic,1300.0,2017,7,Foreign Used,1549999.0,1M-2M
+Honda Vezel,Honda,Vezel,Automatic,1500.0,2016,8,Kenyan Used,2549999.0,2M-3M
+Toyota Auris,Toyota,Auris,Automatic,1800.0,2014,10,Kenyan Used,1279999.0,1M-2M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2014,10,Kenyan Used,3299999.0,3M-5M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2008,16,Kenyan Used,2099999.0,2M-3M
+Mazda Atenza,Mazda,Atenza,Automatic,2200.0,2017,7,Foreign Used,2599999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2017,7,Kenyan Used,3949999.0,3M-5M
+Bmw X1,Bmw,X1,Automatic,2000.0,2011,13,Kenyan Used,1349999.0,1M-2M
+Audi Q3,Audi,Q3,Automatic,1400.0,2017,7,Foreign Used,3499999.0,3M-5M
+Toyota Hiace,Toyota,Hiace,Automatic,3000.0,2016,8,Kenyan Used,3299999.0,3M-5M
+Subaru Impreza,Subaru,Impreza,Automatic,1600.0,2014,10,Kenyan Used,1099999.0,1M-2M
+Toyota Hilux,Toyota,Hilux,Manual,2400.0,2016,8,Kenyan Used,3199999.0,3M-5M
+Audi S3,Audi,S3,Automatic,2000.0,2017,7,Foreign Used,3449999.0,3M-5M
+Mitsubishi Triton,Mitsubishi,Triton,Automatic,2500.0,2019,5,Foreign Used,5599999.0,5M-10M
+Volkswagen Golf Tsi,Volkswagen,Golf Tsi,Automatic,1200.0,2012,12,Kenyan Used,899999.0,500k-1M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2007,17,Kenyan Used,679999.0,500k-1M
+Smart Forfour,Smart,Forfour,Automatic,900.0,2015,9,Kenyan Used,1749999.0,1M-2M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2014,10,Kenyan Used,1349999.0,1M-2M
+Jeep Renegade,Jeep,Renegade,Automatic,1400.0,2017,7,Foreign Used,2299999.0,2M-3M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2015,9,Kenyan Used,1399999.0,1M-2M
+Toyota Allion,Toyota,Allion,Automatic,1800.0,2005,19,Kenyan Used,849999.0,500k-1M
+Nissan Wingroad,Nissan,Wingroad,Automatic,1500.0,2012,12,Kenyan Used,679999.0,500k-1M
+Mercedes Benz Cla 250,Mercedes Benz,Cla 250,Automatic,2000.0,2014,10,Kenyan Used,2299999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2017,7,Foreign Used,1499999.0,1M-2M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2015,9,Kenyan Used,2299999.0,2M-3M
+Toyota Wish,Toyota,Wish,Automatic,1800.0,2011,13,Kenyan Used,1049999.0,1M-2M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,1800.0,2013,11,Kenyan Used,3099999.0,3M-5M
+Peugeot 2008,Peugeot,2008,Automatic,1200.0,2017,7,Foreign Used,2099999.0,2M-3M
+Honda Fit,Honda,Fit,Automatic,1500.0,2012,12,Kenyan Used,729999.0,500k-1M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2017,7,Foreign Used,4649999.0,3M-5M
+Range Rover Sport,Range Rover,Sport,Automatic,3000.0,2013,11,Kenyan Used,5999999.0,5M-10M
+Volkswagen Passat,Volkswagen,Passat,Automatic,1800.0,2012,12,Kenyan Used,1349999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2014,10,Kenyan Used,2499999.0,2M-3M
+Peugeot 308,Peugeot,308,Automatic,1200.0,2016,8,Foreign Used,1599999.0,1M-2M
+Honda Fit,Honda,Fit,Automatic,1500.0,2014,10,Kenyan Used,1059999.0,1M-2M
+Toyota Hiace,Toyota,Hiace,Automatic,3000.0,2010,14,Kenyan Used,999999.0,500k-1M
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,4649999.0,3M-5M
+Mercedes Benz Glc 250,Mercedes Benz,Glc 250,Automatic,2000.0,2017,7,Foreign Used,6599999.0,5M-10M
+Mazda Cx8,Mazda,Cx8,Automatic,2200.0,2018,6,Foreign Used,3949999.0,3M-5M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2016,8,Foreign Used,1379999.0,1M-2M
+Porsche Macan S,Porsche,Macan S,Automatic,3000.0,2015,9,Kenyan Used,4849999.0,3M-5M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2016,8,Kenyan Used,2549999.0,2M-3M
+Volkswagen Golf Tsi,Volkswagen,Golf Tsi,Automatic,1400.0,2017,7,Foreign Used,2449999.0,2M-3M
+Volkswagen Golf Tsi,Volkswagen,Golf Tsi,Automatic,1200.0,2014,10,Kenyan Used,1449999.0,1M-2M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2015,9,Kenyan Used,3299999.0,3M-5M
+Bmw 523I,Bmw,523I,Automatic,2000.0,2013,11,Kenyan Used,1599999.0,1M-2M
+Toyota Fortuner,Toyota,Fortuner,Automatic,2800.0,2017,7,Foreign Used,6799999.0,5M-10M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Kenyan Used,3499999.0,3M-5M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2012,12,Kenyan Used,2199999.0,2M-3M
+Suzuki Escudo,Suzuki,Escudo,Automatic,1600.0,2016,8,Foreign Used,2349999.0,2M-3M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2013,11,Kenyan Used,1549999.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2016,8,Foreign Used,1299999.0,1M-2M
+Bmw 320I,Bmw,320I,Manual,2000.0,2005,19,Kenyan Used,749999.0,500k-1M
+Nissan Note,Nissan,Note,Automatic,1200.0,2015,9,Kenyan Used,879999.0,500k-1M
+Volkswagen Touareg,Volkswagen,Touareg,Automatic,3600.0,2013,11,Kenyan Used,4249999.0,3M-5M
+Mazda Premacy,Mazda,Premacy,Automatic,2000.0,2014,10,Kenyan Used,1049999.0,1M-2M
+Suzuki Jimny,Suzuki,Jimny,Automatic,1500.0,2019,5,Foreign Used,3599999.0,3M-5M
+Volvo Xc90,Volvo,Xc90,Automatic,3200.0,2008,16,Kenyan Used,1649999.0,1M-2M
+Peugeot 206,Peugeot,206,Manual,1600.0,2006,18,Kenyan Used,385000.0,0-500k
+Jaguar F Pace,Jaguar,F Pace,Automatic,2000.0,2018,6,Foreign Used,6999999.0,5M-10M
+Toyota Hiace,Toyota,Hiace,Automatic,3000.0,2017,7,Kenyan Used,3499999.0,3M-5M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2018,6,Foreign Used,3449999.0,3M-5M
+Toyota Sienta,Toyota,Sienta,Automatic,1500.0,2017,7,Kenyan Used,1699999.0,1M-2M
+Range Rover Vogue,Range Rover,Vogue,Automatic,3000.0,2016,8,Foreign Used,9999999.0,5M-10M
+Bmw X6,Bmw,X6,Automatic,3000.0,2017,7,Kenyan Used,7099999.0,5M-10M
+Porsche Cayenne,Porsche,Cayenne,Automatic,3600.0,2009,15,Kenyan Used,2199999.0,2M-3M
+Nissan Sunny,Nissan,Sunny,Automatic,1500.0,1997,27,Kenyan Used,299999.0,0-500k
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,5499999.0,5M-10M
+Mercedes Benz Glc 250,Mercedes Benz,Glc 250,Automatic,2000.0,2016,8,Foreign Used,4949999.0,3M-5M
+Audi A3,Audi,A3,Automatic,1400.0,2017,7,Foreign Used,2399999.0,2M-3M
+Nissan Nv 250,Nissan,Nv 250,Automatic,1600.0,2014,10,Kenyan Used,989999.0,500k-1M
+Nissan Skyline,Nissan,Skyline,Automatic,2000.0,2016,8,Foreign Used,2349999.0,2M-3M
+Porsche Cayenne,Porsche,Cayenne,Automatic,3000.0,2016,8,Foreign Used,8499999.0,5M-10M
+Toyota Voxy,Toyota,Voxy,Automatic,2000.0,2011,13,Kenyan Used,1229999.0,1M-2M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2014,10,Kenyan Used,1249999.0,1M-2M
+Toyota Isis,Toyota,Isis,Automatic,1800.0,2012,12,Kenyan Used,969999.0,500k-1M
+Nissan Juke,Nissan,Juke,Automatic,1500.0,2015,9,Kenyan Used,1449999.0,1M-2M
+Volvo V40,Volvo,V40,Automatic,1600.0,2014,10,Kenyan Used,1349999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2008,16,Kenyan Used,1349999.0,1M-2M
+Volvo S60,Volvo,S60,Automatic,2000.0,2018,6,Foreign Used,2499999.0,2M-3M
+Audi Sq5,Audi,Sq5,Automatic,3000.0,2020,4,Foreign Used,8199999.0,5M-10M
+Lexus Rx300,Lexus,Rx300,Automatic,3000.0,2006,18,Kenyan Used,849999.0,500k-1M
+Mercedes Benz E200,Mercedes Benz,E200,Automatic,2000.0,2016,8,Kenyan Used,4999999.0,3M-5M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2000.0,2013,11,Kenyan Used,1699999.0,1M-2M
+Subaru Xv,Subaru,Xv,Automatic,2000.0,2016,8,Foreign Used,2499999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2017,7,Foreign Used,3899999.0,3M-5M
+Bmw 118I,Bmw,118I,Automatic,1500.0,2016,8,Kenyan Used,1899999.0,1M-2M
+Volvo Xc60,Volvo,Xc60,Automatic,2000.0,2019,5,Foreign Used,5949999.0,5M-10M
+Toyota Aqua,Toyota,Aqua,Automatic,1500.0,2017,7,Foreign Used,1549999.0,1M-2M
+Mercedes Benz Gle 350D,Mercedes Benz,Gle 350D,Automatic,3000.0,2017,7,Foreign Used,11499999.0,Above 10
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2016,8,Kenyan Used,1599999.0,1M-2M
+Suzuki Escudo,Suzuki,Escudo,Automatic,2000.0,2008,16,Kenyan Used,749999.0,500k-1M
+Subaru Impreza,Subaru,Impreza,Automatic,2000.0,2013,11,Kenyan Used,1099999.0,1M-2M
+Audi A4,Audi,A4,Automatic,2000.0,2013,11,Kenyan Used,1749999.0,1M-2M
+Honda Odyssey,Honda,Odyssey,Automatic,2400.0,2009,15,Kenyan Used,969999.0,500k-1M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2016,8,Kenyan Used,2099999.0,2M-3M
+Mercedes Benz E200,Mercedes Benz,E200,Automatic,2000.0,2016,8,Kenyan Used,5399999.0,5M-10M
+Volkswagen Polo,Volkswagen,Polo,Automatic,1200.0,2012,12,Kenyan Used,819999.0,500k-1M
+Lexus Rx450H,Lexus,Rx450H,Automatic,3500.0,2017,7,Foreign Used,6999999.0,5M-10M
+Toyota Premio,Toyota,Premio,Automatic,2000.0,2010,14,Kenyan Used,1099999.0,1M-2M
+Volkswagen Golf Gti,Volkswagen,Golf Gti,Automatic,2000.0,2017,7,Foreign Used,3099999.0,3M-5M
+Toyota Crown,Toyota,Crown,Automatic,2500.0,2014,10,Kenyan Used,1999999.0,1M-2M
+Range Rover Vogue,Range Rover,Vogue,Automatic,3000.0,2019,5,Foreign Used,16999999.0,Above 10
+Volkswagen Arteon,Volkswagen,Arteon,Automatic,2000.0,2017,7,Foreign Used,4849999.0,3M-5M
+Lexus Ct200H,Lexus,Ct200H,Automatic,1800.0,2011,13,Kenyan Used,1599999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2015,9,Kenyan Used,2119999.0,2M-3M
+Nissan Dayz,Nissan,Dayz,Automatic,660.0,2017,7,Foreign Used,829999.0,500k-1M
+Mazda Atenza,Mazda,Atenza,Automatic,2000.0,2016,8,Foreign Used,2599999.0,2M-3M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2012,12,Kenyan Used,1149999.0,1M-2M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2017,7,Foreign Used,1999999.0,1M-2M
+Nissan Lafesta,Nissan,Lafesta,Automatic,2000.0,2014,10,Kenyan Used,949999.0,500k-1M
+Kia Sportage,Kia,Sportage,Automatic,2000.0,2007,17,Kenyan Used,979999.0,500k-1M
+Nissan Fuga,Nissan,Fuga,Automatic,2500.0,2011,13,Kenyan Used,1249999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2399999.0,2M-3M
+Toyota Vitz,Toyota,Vitz,Automatic,1000.0,2009,15,Kenyan Used,595000.0,500k-1M
+Subaru Wrx S4,Subaru,Wrx S4,Automatic,2000.0,2014,10,Kenyan Used,2399999.0,2M-3M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2015,9,Kenyan Used,3599999.0,3M-5M
+Ford Ranger,Ford,Ranger,Automatic,2200.0,2016,8,Kenyan Used,4299999.0,3M-5M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2007,17,Kenyan Used,949999.0,500k-1M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Kenyan Used,2349999.0,2M-3M
+Toyota Hiace,Toyota,Hiace,Automatic,2700.0,2016,8,Kenyan Used,2449999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2014,10,Kenyan Used,2949999.0,2M-3M
+Volkswagen Touareg,Volkswagen,Touareg,Automatic,3000.0,2009,15,Kenyan Used,1999999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2015,9,Kenyan Used,3549999.0,3M-5M
+Range Rover Vogue,Range Rover,Vogue,Automatic,4400.0,2013,11,Kenyan Used,6999999.0,5M-10M
+Mercedes Benz Gle,Mercedes Benz,Gle,Automatic,3000.0,2017,7,Foreign Used,9999999.0,5M-10M
+Honda Vezel,Honda,Vezel,Automatic,1500.0,2016,8,Kenyan Used,2249999.0,2M-3M
+Toyota Landcruiser Prado,Toyota,Landcruiser Prado,Automatic,2700.0,2017,7,Kenyan Used,4999999.0,3M-5M
+Mitsubishi Galant Fortis,Mitsubishi,Galant Fortis,Automatic,2000.0,2012,12,Kenyan Used,1049999.0,1M-2M
+Subaru Impreza,Subaru,Impreza,Automatic,1600.0,2015,9,Kenyan Used,1449999.0,1M-2M
+Range Rover Vogue,Range Rover,Vogue,Automatic,3000.0,2013,11,Kenyan Used,9899999.0,5M-10M
+Toyota Landcruiser Prado Vx,Toyota,Landcruiser Prado Vx,Automatic,3000.0,2015,9,Kenyan Used,6299999.0,5M-10M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,1800.0,2011,13,Kenyan Used,2499999.0,2M-3M
+Mazda Demio,Mazda,Demio,Automatic,1500.0,2017,7,Foreign Used,1429999.0,1M-2M
+Honda Fit,Honda,Fit,Automatic,1300.0,2008,16,Kenyan Used,579000.0,500k-1M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2000.0,2015,9,Kenyan Used,2499999.0,2M-3M
+Bmw 520I,Bmw,520I,Automatic,2000.0,2012,12,Kenyan Used,1649999.0,1M-2M
+Nissan Nv100 Clipper,Nissan,Nv100 Clipper,Automatic,660.0,2015,9,Kenyan Used,599999.0,500k-1M
+Bmw 120I,Bmw,120I,Automatic,2000.0,2012,12,Kenyan Used,999999.0,500k-1M
+Volkswagen Passat Cc,Volkswagen,Passat Cc,Automatic,1800.0,2013,11,Kenyan Used,999999.0,500k-1M
+Nissan Note E Power,Nissan,Note E Power,Automatic,1200.0,2017,7,Foreign Used,1329999.0,1M-2M
+Subaru Legacy,Subaru,Legacy,Automatic,2000.0,2005,19,Kenyan Used,719999.0,500k-1M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2013,11,Kenyan Used,2499999.0,2M-3M
+Mercedes Benz Viano,Mercedes Benz,Viano,Automatic,2143.0,2013,11,Kenyan Used,2949999.0,2M-3M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2013,11,Kenyan Used,1599999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2017,7,Foreign Used,3599999.0,3M-5M
+Peugeot 3008,Peugeot,3008,Automatic,1600.0,2017,7,Foreign Used,3799999.0,3M-5M
+Porsche Cayenne,Porsche,Cayenne,Automatic,3600.0,2009,15,Kenyan Used,1899999.0,1M-2M
+Land Rover Discovery Iv,Land Rover,Discovery Iv,Automatic,3000.0,2013,11,Kenyan Used,4499999.0,3M-5M
+Mercedes Benz C300,Mercedes Benz,C300,Automatic,2000.0,2019,5,Kenyan Used,4499999.0,3M-5M
+Mazda Cx5,Mazda,Cx5,Automatic,2000.0,2015,9,Kenyan Used,2349999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2017,7,Foreign Used,1269999.0,1M-2M
+Honda Vezel,Honda,Vezel,Automatic,1500.0,2015,9,Kenyan Used,2549999.0,2M-3M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2012,12,Kenyan Used,829999.0,500k-1M
+Jeep Grand Cherokee,Jeep,Grand Cherokee,Automatic,3600.0,2012,12,Kenyan Used,3299999.0,3M-5M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2015,9,Kenyan Used,2199999.0,2M-3M
+Toyota Hilux,Toyota,Hilux,Automatic,3000.0,2008,16,Kenyan Used,1199999.0,1M-2M
+Subaru Impreza,Subaru,Impreza,Automatic,1500.0,2001,23,Kenyan Used,499999.0,0-500k
+Bmw 320I,Bmw,320I,Automatic,2000.0,2015,9,Kenyan Used,2249999.0,2M-3M
+Range Rover Vogue,Range Rover,Vogue,Automatic,4400.0,2014,10,Foreign Used,9449999.0,5M-10M
+Nissan Tiida Latio,Nissan,Tiida Latio,Automatic,1500.0,2010,14,Kenyan Used,369999.0,0-500k
+Honda N One,Honda,N One,Automatic,660.0,2017,7,Foreign Used,879999.0,500k-1M
+Mercedes Benz C180,Mercedes Benz,C180,Automatic,1800.0,2007,17,Kenyan Used,829999.0,500k-1M
+Toyota Ractis,Toyota,Ractis,Automatic,1500.0,2015,9,Kenyan Used,1299999.0,1M-2M
+Suzuki Swift,Suzuki,Swift,Automatic,1200.0,2012,12,Kenyan Used,729999.0,500k-1M
+Audi Q5,Audi,Q5,Automatic,2000.0,2018,6,Foreign Used,5499999.0,5M-10M
+Toyota Aqua,Toyota,Aqua,Automatic,1500.0,2014,10,Kenyan Used,899999.0,500k-1M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2015,9,Kenyan Used,2699999.0,2M-3M
+Audi A3,Audi,A3,Automatic,1800.0,2014,10,Kenyan Used,1699999.0,1M-2M
+Nissan Note E Power,Nissan,Note E Power,Automatic,1200.0,2017,7,Foreign Used,1269999.0,1M-2M
+Toyota Mark X Zio,Toyota,Mark X Zio,Automatic,2400.0,2012,12,Kenyan Used,1399999.0,1M-2M
+Mercedes Benz Gle 350D,Mercedes Benz,Gle 350D,Automatic,3000.0,2015,9,Kenyan Used,5799999.0,5M-10M
+Honda Fit,Honda,Fit,Automatic,1300.0,2017,7,Foreign Used,1479999.0,1M-2M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2015,9,Kenyan Used,1499999.0,1M-2M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2012,12,Kenyan Used,1599999.0,1M-2M
+Toyota Mark Ii,Toyota,Mark Ii,Automatic,2500.0,2002,22,Kenyan Used,589999.0,500k-1M
+Toyota Hiace,Toyota,Hiace,Automatic,2700.0,2012,12,Kenyan Used,2249999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2017,7,Foreign Used,1299999.0,1M-2M
+Toyota Noah,Toyota,Noah,Automatic,2000.0,2012,12,Kenyan Used,1149999.0,1M-2M
+Audi A5,Audi,A5,Automatic,2000.0,2017,7,Foreign Used,3999999.0,3M-5M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2013,11,Kenyan Used,1299999.0,1M-2M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2022,2,Kenyan Used,7699999.0,5M-10M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2017,7,Foreign Used,1279999.0,1M-2M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2012,12,Kenyan Used,1189999.0,1M-2M
+Hyundai Hd65,Hyundai,Hd65,Manual,3600.0,2019,5,Kenyan Used,3199999.0,3M-5M
+Honda Cr Z,Honda,Cr Z,Automatic,1500.0,2015,9,Kenyan Used,1399999.0,1M-2M
+Bmw 320I,Bmw,320I,Automatic,2000.0,2008,16,Kenyan Used,969999.0,500k-1M
+Bmw 520I,Bmw,520I,Automatic,2000.0,2012,12,Kenyan Used,1799999.0,1M-2M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2015,9,Kenyan Used,1649999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2014,10,Kenyan Used,3049999.0,3M-5M
+Toyota Fielder Hybrid,Toyota,Fielder Hybrid,Automatic,1500.0,2015,9,Kenyan Used,1429999.0,1M-2M
+Daihatsu Begu,Daihatsu,Begu,Automatic,1500.0,2014,10,Kenyan Used,1499999.0,1M-2M
+Volkswagen Polo,Volkswagen,Polo,Automatic,1400.0,2005,19,Kenyan Used,299999.0,0-500k
+Volvo Xc60,Volvo,Xc60,Automatic,2000.0,2018,6,Foreign Used,5599999.0,5M-10M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2017,7,Kenyan Used,3999999.0,3M-5M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2013,11,Kenyan Used,1999999.0,1M-2M
+Renault Megane,Renault,Megane,Automatic,1600.0,2017,7,Foreign Used,2299999.0,2M-3M
+Lexus Ls460,Lexus,Ls460,Automatic,4600.0,2014,10,Kenyan Used,4899999.0,3M-5M
+Subaru Xv,Subaru,Xv,Automatic,2000.0,2012,12,Kenyan Used,1499999.0,1M-2M
+Land Rover Discovery V,Land Rover,Discovery V,Automatic,3000.0,2017,7,Kenyan Used,9999999.0,5M-10M
+Daihatsu Mira,Daihatsu,Mira,Automatic,660.0,2017,7,Foreign Used,879999.0,500k-1M
+Subaru Xv,Subaru,Xv,Automatic,2000.0,2015,9,Kenyan Used,1849999.0,1M-2M
+Bmw 116I,Bmw,116I,Automatic,1600.0,2014,10,Kenyan Used,1499999.0,1M-2M
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,4549999.0,3M-5M
+Volkswagen Golf Alltrack,Volkswagen,Golf Alltrack,Automatic,1800.0,2016,8,Kenyan Used,2149999.0,2M-3M
+Volkswagen Passat,Volkswagen,Passat,Automatic,1800.0,2012,12,Kenyan Used,1689999.0,1M-2M
+Toyota Hilux Surf,Toyota,Hilux Surf,Automatic,2700.0,2004,20,Kenyan Used,1179999.0,1M-2M
+Toyota Carina,Toyota,Carina,Manual,2000.0,1998,26,Kenyan Used,419999.0,0-500k
+Mazda Cx5,Mazda,Cx5,Automatic,2000.0,2016,8,Foreign Used,2649999.0,2M-3M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2017,7,Kenyan Used,3449999.0,3M-5M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2013,11,Kenyan Used,729999.0,500k-1M
+Range Rover Vogue,Range Rover,Vogue,Automatic,4400.0,2008,16,Kenyan Used,3499999.0,3M-5M
+Suzuki Swift,Suzuki,Swift,Automatic,1200.0,2017,7,Foreign Used,1299999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Foreign Used,2999999.0,2M-3M
+Mercedes Benz C250,Mercedes Benz,C250,Automatic,2143.0,2013,11,Kenyan Used,2299999.0,2M-3M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2015,9,Kenyan Used,4999999.0,3M-5M
+Honda Freed,Honda,Freed,Automatic,1500.0,2015,9,Foreign Used,1299999.0,1M-2M
+Volvo V60,Volvo,V60,Automatic,1600.0,2016,8,Foreign Used,2049999.0,2M-3M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2016,8,Foreign Used,3049999.0,3M-5M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Kenyan Used,1189999.0,1M-2M
+Subaru Impreza,Subaru,Impreza,Automatic,2000.0,2014,10,Kenyan Used,1449999.0,1M-2M
+Suzuki Swift,Suzuki,Swift,Automatic,1200.0,2014,10,Kenyan Used,789999.0,500k-1M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2012,12,Kenyan Used,1399999.0,1M-2M
+Subaru Impreza,Subaru,Impreza,Manual,1500.0,2009,15,Kenyan Used,799999.0,500k-1M
+Nissan Note,Nissan,Note,Automatic,1200.0,2013,11,Kenyan Used,749999.0,500k-1M
+Lexus Nx200T,Lexus,Nx200T,Automatic,2000.0,2016,8,Kenyan Used,3799999.0,3M-5M
+Honda Crv,Honda,Crv,Automatic,2400.0,2013,11,Kenyan Used,1549999.0,1M-2M
+Subaru Levorg,Subaru,Levorg,Automatic,2000.0,2016,8,Kenyan Used,2199999.0,2M-3M
+Subaru Legacy,Subaru,Legacy,Automatic,2500.0,2012,12,Kenyan Used,1399999.0,1M-2M
+Toyota Rav4,Toyota,Rav4,Automatic,2400.0,2009,15,Kenyan Used,1399999.0,1M-2M
+Audi A5,Audi,A5,Automatic,2000.0,2015,9,Kenyan Used,2599999.0,2M-3M
+Volvo Xc60,Volvo,Xc60,Automatic,2000.0,2017,7,Foreign Used,5699999.0,5M-10M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2014,10,Kenyan Used,1399999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2017,7,Foreign Used,3799999.0,3M-5M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2400.0,2014,10,Kenyan Used,2249999.0,2M-3M
+Volkswagen Passat,Volkswagen,Passat,Automatic,1800.0,2011,13,Kenyan Used,979999.0,500k-1M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2009,15,Kenyan Used,899999.0,500k-1M
+Nissan Note,Nissan,Note,Automatic,1200.0,2017,7,Foreign Used,1229999.0,1M-2M
+Mazda Cx3,Mazda,Cx3,Automatic,1500.0,2015,9,Kenyan Used,1499999.0,1M-2M
+Toyota Fielder,Toyota,Fielder,Automatic,1800.0,2012,12,Kenyan Used,1145000.0,1M-2M
+Toyota Isis,Toyota,Isis,Automatic,1800.0,2011,13,Kenyan Used,889999.0,500k-1M
+Nissan Pino,Nissan,Pino,Automatic,660.0,2009,15,Kenyan Used,409999.0,0-500k
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2012,12,Kenyan Used,709999.0,500k-1M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2012,12,Kenyan Used,1479999.0,1M-2M
+Toyota Nze,Toyota,Nze,Automatic,1800.0,2002,22,Kenyan Used,599999.0,500k-1M
+Volkswagen Golf Gti,Volkswagen,Golf Gti,Automatic,2000.0,2018,6,Foreign Used,3499999.0,3M-5M
+Toyota Runx,Toyota,Runx,Automatic,1500.0,2002,22,Kenyan Used,599999.0,500k-1M
+Subaru Impreza,Subaru,Impreza,Automatic,2000.0,2014,10,Kenyan Used,1399999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2500.0,2017,7,Foreign Used,4499999.0,3M-5M
+Mercedes Benz Gla 45,Mercedes Benz,Gla 45,Automatic,2000.0,2015,9,Kenyan Used,5449999.0,5M-10M
+Toyota Harrier,Toyota,Harrier,Automatic,2400.0,2004,20,Kenyan Used,999999.0,500k-1M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2013,11,Kenyan Used,2099999.0,2M-3M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2017,7,Foreign Used,1799999.0,1M-2M
+Toyota Isis,Toyota,Isis,Automatic,1800.0,2015,9,Kenyan Used,1169999.0,1M-2M
+Toyota Allion,Toyota,Allion,Automatic,1800.0,2006,18,Kenyan Used,769999.0,500k-1M
+Toyota Voltz,Toyota,Voltz,Automatic,1800.0,2003,21,Kenyan Used,569999.0,500k-1M
+Honda Fit,Honda,Fit,Automatic,1300.0,2011,13,Kenyan Used,729999.0,500k-1M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2017,7,Kenyan Used,3399999.0,3M-5M
+Toyota Passo,Toyota,Passo,Automatic,1000.0,2016,8,Kenyan Used,999999.0,500k-1M
+Toyota Hilux,Toyota,Hilux,Manual,2500.0,2015,9,Kenyan Used,3799999.0,3M-5M
+Ford Ranger,Ford,Ranger,Manual,2200.0,2011,13,Kenyan Used,1599999.0,1M-2M
+Ford Ranger,Ford,Ranger,Manual,3200.0,2023,1,Kenyan Used,4499999.0,3M-5M
+Mitsubishi Galant Fortis,Mitsubishi,Galant Fortis,Automatic,2000.0,2011,13,Kenyan Used,1249999.0,1M-2M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2011,13,Kenyan Used,1749999.0,1M-2M
+Toyota Premio,Toyota,Premio,Automatic,2000.0,2014,10,Kenyan Used,1449999.0,1M-2M
+Volkswagen Golf Variant,Volkswagen,Golf Variant,Automatic,1400.0,2012,12,Kenyan Used,949999.0,500k-1M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2013,11,Kenyan Used,1949999.0,1M-2M
+Nissan Bluebird,Nissan,Bluebird,Automatic,2000.0,2012,12,Kenyan Used,939999.0,500k-1M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2013,11,Kenyan Used,2169999.0,2M-3M
+Suzuki Alto,Suzuki,Alto,Automatic,660.0,2017,7,Kenyan Used,859999.0,500k-1M
+Nissan Note,Nissan,Note,Automatic,1200.0,2014,10,Kenyan Used,799999.0,500k-1M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2017,7,Foreign Used,2699999.0,2M-3M
+Porsche Cayenne,Porsche,Cayenne,Automatic,3600.0,2014,10,Kenyan Used,4599999.0,3M-5M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2013,11,Kenyan Used,1999999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2016,8,Kenyan Used,3349999.0,3M-5M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,2000.0,2016,8,Kenyan Used,3379999.0,3M-5M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2011,13,Kenyan Used,1599999.0,1M-2M
+Toyota Hilux,Toyota,Hilux,Automatic,2500.0,2021,3,Kenyan Used,3599999.0,3M-5M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2016,8,Kenyan Used,1549999.0,1M-2M
+Toyota Landcruiser Prado,Toyota,Landcruiser Prado,Automatic,2700.0,2006,18,Kenyan Used,2169999.0,2M-3M
+Subaru Impreza,Subaru,Impreza,Automatic,1600.0,2015,9,Kenyan Used,1469999.0,1M-2M
+Toyota Camry,Toyota,Camry,Automatic,2400.0,2008,16,Kenyan Used,1189999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2012,12,Kenyan Used,3499999.0,3M-5M
+Toyota Hiace,Toyota,Hiace,Automatic,3000.0,2012,12,Kenyan Used,2499999.0,2M-3M
+Toyota Crown,Toyota,Crown,Automatic,2500.0,2007,17,Kenyan Used,769000.0,500k-1M
+Toyota Hilux,Toyota,Hilux,Manual,2500.0,2012,12,Kenyan Used,2349999.0,2M-3M
+Nissan Sunny B15,Nissan,Sunny B15,Automatic,1500.0,2002,22,Kenyan Used,399999.0,0-500k
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2014,10,Kenyan Used,2489999.0,2M-3M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2014,10,Kenyan Used,1849999.0,1M-2M
+Mazda Cx3,Mazda,Cx3,Automatic,1500.0,2016,8,Kenyan Used,1789999.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1500.0,2017,7,Foreign Used,1489999.0,1M-2M
+Nissan Note,Nissan,Note,Automatic,1200.0,2011,13,Kenyan Used,694999.0,500k-1M
+Mercedes Benz E43,Mercedes Benz,E43,Automatic,3000.0,2017,7,Foreign Used,6999999.0,5M-10M
+Mini Cooper,Mini,Cooper,Automatic,2000.0,2017,7,Foreign Used,3299999.0,3M-5M
+Toyota Crown Athlete Hybrid,Toyota,Crown Athlete Hybrid,Automatic,2500.0,2013,11,Kenyan Used,1999999.0,1M-2M
+Land Rover Defender 110,Land Rover,Defender 110,Automatic,3000.0,2021,3,Kenyan Used,18999999.0,Above 10
+Honda Crv,Honda,Crv,Automatic,2400.0,2012,12,Kenyan Used,1649999.0,1M-2M
+Volvo Xc60 T5,Volvo,Xc60 T5,Automatic,2000.0,2012,12,Kenyan Used,1699999.0,1M-2M
+Lexus Rx450H,Lexus,Rx450H,Automatic,3500.0,2009,15,Kenyan Used,1959999.0,1M-2M
+Volvo V60 T6,Volvo,V60 T6,Automatic,2000.0,2014,10,Kenyan Used,1799999.0,1M-2M
+Toyota Fortuner,Toyota,Fortuner,Automatic,3000.0,2008,16,Kenyan Used,1799999.0,1M-2M
+Nissan Serena,Nissan,Serena,Automatic,2000.0,2012,12,Kenyan Used,849999.0,500k-1M
+Bmw 320I,Bmw,320I,Automatic,2000.0,2015,9,Kenyan Used,2449999.0,2M-3M
+Toyota Crown Royal Saloon,Toyota,Crown Royal Saloon,Automatic,2500.0,2007,17,Kenyan Used,819999.0,500k-1M
+Toyota Passo,Toyota,Passo,Automatic,1000.0,2017,7,Kenyan Used,959999.0,500k-1M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2016,8,Kenyan Used,1879999.0,1M-2M
+Bmw 530I,Bmw,530I,Automatic,2000.0,2017,7,Foreign Used,4499999.0,3M-5M
+Mercedes Benz C200 Avantgarde,Mercedes Benz,C200 Avantgarde,Automatic,1800.0,2012,12,Kenyan Used,2199999.0,2M-3M
+Mitsubishi Pajero,Mitsubishi,Pajero,Manual,2400.0,1999,25,Kenyan Used,829999.0,500k-1M
+Toyota Landcruiser Prado J120,Toyota,Landcruiser Prado J120,Automatic,2700.0,2008,16,Kenyan Used,2249999.0,2M-3M
+Lexus Rx200T,Lexus,Rx200T,Automatic,2000.0,2017,7,Foreign Used,6299999.0,5M-10M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2017,7,Foreign Used,1249999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2749999.0,2M-3M
+Audi A7,Audi,A7,Automatic,2000.0,2017,7,Foreign Used,4499999.0,3M-5M
+Bmw X5 Xdrive35D M-Sport,Bmw,X5 Xdrive35D M-Sport,Automatic,3000.0,2014,10,Kenyan Used,4449999.0,3M-5M
+Honda Fit,Honda,Fit,Automatic,1500.0,2011,13,Kenyan Used,749999.0,500k-1M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2010,14,Kenyan Used,1169999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2000.0,2014,10,Kenyan Used,2299999.0,2M-3M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2013,11,Kenyan Used,1299999.0,1M-2M
+Toyota Premio,Toyota,Premio,Automatic,1800.0,2016,8,Kenyan Used,1799999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2000.0,2015,9,Kenyan Used,2449999.0,2M-3M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2013,11,Kenyan Used,2299999.0,2M-3M
+Renault Lutecia Trophy,Renault,Lutecia Trophy,Automatic,1600.0,2016,8,Foreign Used,1749999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2007,17,Kenyan Used,1049999.0,1M-2M
+Lexus Rx270,Lexus,Rx270,Automatic,2700.0,2010,14,Kenyan Used,2199999.0,2M-3M
+Mazda Cx3,Mazda,Cx3,Automatic,1500.0,2016,8,Kenyan Used,1799999.0,1M-2M
+Nissan Sunny B15,Nissan,Sunny B15,Automatic,1500.0,2002,22,Kenyan Used,469999.0,0-500k
+Nissan Tiida,Nissan,Tiida,Automatic,1500.0,2012,12,Kenyan Used,749999.0,500k-1M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2009,15,Kenyan Used,1399999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2015,9,Kenyan Used,4549999.0,3M-5M
+Toyota Spade,Toyota,Spade,Automatic,1500.0,2014,10,Kenyan Used,1189999.0,1M-2M
+Toyota Noah,Toyota,Noah,Automatic,2000.0,2014,10,Kenyan Used,1599999.0,1M-2M
+Subaru Outback,Subaru,Outback,Automatic,3600.0,2017,7,Foreign Used,3779999.0,3M-5M
+Volvo S60,Volvo,S60,Automatic,1600.0,2017,7,Foreign Used,2399999.0,2M-3M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2017,7,Foreign Used,2999999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2016,8,Kenyan Used,3249999.0,3M-5M
+Volkswagen Golf Variant Gti,Volkswagen,Golf Variant Gti,Automatic,2000.0,2008,16,Kenyan Used,729999.0,500k-1M
+Nissan Np300 Hardbody,Nissan,Np300 Hardbody,Automatic,3000.0,2004,20,Kenyan Used,719999.0,500k-1M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2016,8,Foreign Used,5799999.0,5M-10M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2016,8,Foreign Used,1949999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2800.0,2018,6,Foreign Used,7799999.0,5M-10M
+Toyota Premio 260,Toyota,Premio 260,Automatic,2000.0,2016,8,Foreign Used,2199999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2016,8,Kenyan Used,3449999.0,3M-5M
+Mitsubishi Rvr,Mitsubishi,Rvr,Automatic,1800.0,2017,7,Foreign Used,2549999.0,2M-3M
+Bmw X3,Bmw,X3,Automatic,2000.0,2017,7,Foreign Used,4499999.0,3M-5M
+Toyota Harrier,Toyota,Harrier,Automatic,2400.0,2005,19,Kenyan Used,999999.0,500k-1M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2014,10,Kenyan Used,1449999.0,1M-2M
+Toyota Vitz Jewela,Toyota,Vitz Jewela,Automatic,1300.0,2016,8,Kenyan Used,1199999.0,1M-2M
+Toyota Roomy,Toyota,Roomy,Automatic,1000.0,2016,8,Foreign Used,1299999.0,1M-2M
+Volkswagen Touareg,Volkswagen,Touareg,Automatic,3600.0,2008,16,Kenyan Used,1749999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2013,11,Kenyan Used,3499999.0,3M-5M
+Audi Q3 2.0T Quattro,Audi,Q3 2.0T Quattro,Automatic,2000.0,2014,10,Kenyan Used,2599999.0,2M-3M
+Jeep Cherokee Limited 3.2L V6,Jeep,Cherokee Limited 3.2L V6,Automatic,3200.0,2015,9,Kenyan Used,3849999.0,3M-5M
+Mercedes Benz E200,Mercedes Benz,E200,Automatic,2000.0,2016,8,Foreign Used,5199999.0,5M-10M
+Mitsubishi Colt,Mitsubishi,Colt,Automatic,1300.0,2008,16,Kenyan Used,669999.0,500k-1M
+Toyota Mark Ii,Toyota,Mark Ii,Automatic,2000.0,2003,21,Kenyan Used,559999.0,500k-1M
+Volkswagen Golf Gti,Volkswagen,Golf Gti,Automatic,2000.0,2013,11,Kenyan Used,1749999.0,1M-2M
+Mercedes Benz Slk 200 Wald,Mercedes Benz,Slk 200 Wald,Automatic,1800.0,2013,11,Kenyan Used,4499999.0,3M-5M
+Volkswagen Arteon,Volkswagen,Arteon,Automatic,2000.0,2018,6,Foreign Used,4899999.0,3M-5M
+Mitsubishi Lancer Ralliart,Mitsubishi,Lancer Ralliart,Automatic,2000.0,2009,15,Kenyan Used,979999.0,500k-1M
+Volvo V60 T3,Volvo,V60 T3,Automatic,1600.0,2016,8,Foreign Used,2349999.0,2M-3M
+Subaru Exiga,Subaru,Exiga,Automatic,2000.0,2010,14,Kenyan Used,749999.0,500k-1M
+Range Rover Vogue 3.0 Tdv6,Range Rover,Vogue 3.0 Tdv6,Automatic,3000.0,2015,9,Kenyan Used,9699999.0,5M-10M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2017,7,Foreign Used,2349999.0,2M-3M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2000.0,2017,7,Foreign Used,3499999.0,3M-5M
+Land Rover Defender 110,Land Rover,Defender 110,Automatic,2500.0,1990,34,Kenyan Used,1699999.0,1M-2M
+Honda Fit Shuttle Hybrid,Honda,Fit Shuttle Hybrid,Automatic,1500.0,2013,11,Kenyan Used,969999.0,500k-1M
+Toyota Auris Hybrid,Toyota,Auris Hybrid,Automatic,1800.0,2017,7,Foreign Used,1979999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2500.0,2017,7,Foreign Used,3649999.0,3M-5M
+Bmw 320I Luxury,Bmw,320I Luxury,Automatic,2000.0,2015,9,Kenyan Used,2299999.0,2M-3M
+Nissan Np300 Hardbody,Nissan,Np300 Hardbody,Automatic,3000.0,2006,18,Kenyan Used,549999.0,500k-1M
+"Subaru Forester ""Sf5""",Subaru,"Forester ""Sf5""",Manual,2000.0,2001,23,Kenyan Used,499999.0,0-500k
+Mercedes Benz C180,Mercedes Benz,C180,Automatic,1800.0,1998,26,Kenyan Used,529999.0,500k-1M
+Mazda Cx5,Mazda,Cx5,Automatic,2500.0,2017,7,Foreign Used,3449999.0,3M-5M
+Mercedes Benz Ml 320,Mercedes Benz,Ml 320,Automatic,3200.0,2002,22,Kenyan Used,899999.0,500k-1M
+Volkswagen Golf R,Volkswagen,Golf R,Automatic,2000.0,2015,9,Kenyan Used,3349999.0,3M-5M
+Mitsubishi Pajero,Mitsubishi,Pajero,Automatic,3200.0,2000,24,Kenyan Used,999999.0,500k-1M
+Volkswagen Golf 1.4L Tsi,Volkswagen,Golf 1.4L Tsi,Automatic,1400.0,2014,10,Kenyan Used,1799999.0,1M-2M
+Volvo S60 T4 R-Design,Volvo,S60 T4 R-Design,Automatic,1600.0,2014,10,Kenyan Used,1699999.0,1M-2M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2016,8,Kenyan Used,1249999.0,1M-2M
+Audi A5,Audi,A5,Automatic,2000.0,2016,8,Kenyan Used,2999999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2013,11,Kenyan Used,849999.0,500k-1M
+Mercedes Benz C250,Mercedes Benz,C250,Automatic,2000.0,2015,9,Kenyan Used,3849999.0,3M-5M
+Jeep Cherokee Sport,Jeep,Cherokee Sport,Automatic,2400.0,2016,8,Foreign Used,3779999.0,3M-5M
+Toyota Avensis,Toyota,Avensis,Automatic,1800.0,2012,12,Kenyan Used,1199999.0,1M-2M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2005,19,Kenyan Used,699999.0,500k-1M
+Toyota Fielder,Toyota,Fielder,Automatic,1800.0,2016,8,Foreign Used,1749999.0,1M-2M
+Toyota Crown Royal Saloon,Toyota,Crown Royal Saloon,Automatic,2500.0,2011,13,Kenyan Used,1249999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2015,9,Kenyan Used,2099999.0,2M-3M
+Nissan March,Nissan,March,Automatic,1200.0,2014,10,Kenyan Used,629999.0,500k-1M
+Peugeot 308,Peugeot,308,Automatic,1200.0,2016,8,Foreign Used,2299999.0,2M-3M
+Toyota Allion 1.5L,Toyota,Allion 1.5L,Automatic,1500.0,2009,15,Kenyan Used,1199999.0,1M-2M
+Mitsubishi Outlander Phev,Mitsubishi,Outlander Phev,Automatic,2000.0,2014,10,Kenyan Used,2199999.0,2M-3M
+Mazda Atenza,Mazda,Atenza,Automatic,2200.0,2017,7,Foreign Used,2849999.0,2M-3M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2014,10,Kenyan Used,1949999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Foreign Used,3999999.0,3M-5M
+Nissan March,Nissan,March,Automatic,1200.0,2013,11,Kenyan Used,549999.0,500k-1M
+Mercedes Benz C180,Mercedes Benz,C180,Automatic,1600.0,2017,7,Foreign Used,3349999.0,3M-5M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2008,16,Kenyan Used,849999.0,500k-1M
+Toyota Hiace 2.7L,Toyota,Hiace 2.7L,Automatic,2700.0,2009,15,Kenyan Used,999999.0,500k-1M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2016,8,Foreign Used,3999999.0,3M-5M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2009,15,Kenyan Used,649999.0,500k-1M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2014,10,Kenyan Used,889999.0,500k-1M
+Mitsubishi Colt,Mitsubishi,Colt,Manual,1500.0,2011,13,Kenyan Used,989999.0,500k-1M
+Nissan Note Dig-S,Nissan,Note Dig-S,Automatic,1200.0,2013,11,Kenyan Used,899999.0,500k-1M
+Toyota Ractis,Toyota,Ractis,Automatic,1500.0,2014,10,Kenyan Used,1349999.0,1M-2M
+Mercedes Benz E200,Mercedes Benz,E200,Automatic,2000.0,2016,8,Foreign Used,5499999.0,5M-10M
+Toyota Kluger,Toyota,Kluger,Automatic,3500.0,2018,6,Foreign Used,4799999.0,3M-5M
+Mercedes Benz Gl 350D,Mercedes Benz,Gl 350D,Automatic,3000.0,2015,9,Foreign Used,8899999.0,5M-10M
+Range Rover Sport,Range Rover,Sport,Automatic,3000.0,2016,8,Foreign Used,8499999.0,5M-10M
+Jeep Grand Cherokee,Jeep,Grand Cherokee,Automatic,3600.0,2016,8,Foreign Used,5499999.0,5M-10M
+Toyota Fortuner,Toyota,Fortuner,Automatic,2800.0,2016,8,Foreign Used,5899999.0,5M-10M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2015,9,Kenyan Used,1799999.0,1M-2M
+Volkswagen Passat Variant 1.4L,Volkswagen,Passat Variant 1.4L,Automatic,1400.0,2016,8,Kenyan Used,1899999.0,1M-2M
+Toyota Mark Ii Regalia,Toyota,Mark Ii Regalia,Automatic,2000.0,2002,22,Kenyan Used,529999.0,500k-1M
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,5199999.0,5M-10M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2016,8,Kenyan Used,1689999.0,1M-2M
+Audi A4 2.0T Quattro,Audi,A4 2.0T Quattro,Automatic,2000.0,2015,9,Kenyan Used,2099999.0,2M-3M
+Volvo Xc90,Volvo,Xc90,Automatic,2000.0,2017,7,Foreign Used,7199999.0,5M-10M
+Mazda Cx8,Mazda,Cx8,Automatic,2200.0,2017,7,Foreign Used,3899999.0,3M-5M
+Nissan Murano 3.5L V6,Nissan,Murano 3.5L V6,Automatic,3500.0,2011,13,Kenyan Used,1199999.0,1M-2M
+"Honda Vezel ""Rs"" Hybrid",Honda,"Vezel ""Rs"" Hybrid",Automatic,1500.0,2016,8,Kenyan Used,2199999.0,2M-3M
+Mitsubishi Pajero Glx,Mitsubishi,Pajero Glx,Manual,2350.0,2006,18,Kenyan Used,1399999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2006,18,Kenyan Used,2199999.0,2M-3M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2017,7,Foreign Used,3649999.0,3M-5M
+Volkswagen Golf Variant 1.4L Tsi,Volkswagen,Golf Variant 1.4L Tsi,Automatic,1400.0,2014,10,Kenyan Used,1549999.0,1M-2M
+Suzuki Swift,Suzuki,Swift,Automatic,1200.0,2016,8,Foreign Used,1199999.0,1M-2M
+Volkswagen Golf Variant 1.2L Tsi,Volkswagen,Golf Variant 1.2L Tsi,Automatic,1200.0,2014,10,Kenyan Used,1249999.0,1M-2M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2010,14,Kenyan Used,1749999.0,1M-2M
+Volkswagen Polo,Volkswagen,Polo,Automatic,1200.0,2012,12,Kenyan Used,889999.0,500k-1M
+Nissan Latio,Nissan,Latio,Automatic,1200.0,2015,9,Kenyan Used,949999.0,500k-1M
+Jeep Compass,Jeep,Compass,Automatic,2000.0,2015,9,Kenyan Used,2499999.0,2M-3M
+Toyota Carina,Toyota,Carina,Manual,1500.0,1998,26,Kenyan Used,399999.0,0-500k
+Ford Ranger 3.2L,Ford,Ranger 3.2L,Manual,3200.0,2014,10,Kenyan Used,2999999.0,2M-3M
+Volvo V40 T3,Volvo,V40 T3,Automatic,1600.0,2014,10,Kenyan Used,1679999.0,1M-2M
+Toyota Fortuner,Toyota,Fortuner,Automatic,3000.0,2015,9,Kenyan Used,4499999.0,3M-5M
+Bmw X1,Bmw,X1,Automatic,1500.0,2016,8,Foreign Used,3899999.0,3M-5M
+Audi A3,Audi,A3,Automatic,1400.0,2016,8,Foreign Used,2099999.0,2M-3M
+Audi Sq5 3.0T Quattro,Audi,Sq5 3.0T Quattro,Automatic,3000.0,2016,8,Foreign Used,5099999.0,5M-10M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2015,9,Kenyan Used,2499999.0,2M-3M
+Volvo Xc60 T5,Volvo,Xc60 T5,Automatic,2000.0,2011,13,Kenyan Used,2149999.0,2M-3M
+Toyota Landcruiser Prado Tz-G,Toyota,Landcruiser Prado Tz-G,Automatic,2800.0,2015,9,Kenyan Used,5849999.0,5M-10M
+Suzuki Escudo,Suzuki,Escudo,Automatic,1600.0,2014,10,Kenyan Used,1949999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2800.0,2016,8,Foreign Used,7299999.0,5M-10M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2016,8,Foreign Used,3349999.0,3M-5M
+Jeep Wrangler,Jeep,Wrangler,Automatic,3600.0,2016,8,Foreign Used,5299999.0,5M-10M
+Toyota Hiace,Toyota,Hiace,Automatic,3000.0,2015,9,Kenyan Used,2649999.0,2M-3M
+Toyota Crown Royal Saloon,Toyota,Crown Royal Saloon,Automatic,2500.0,2016,8,Foreign Used,2999999.0,2M-3M
+Mercedes Benz C180,Mercedes Benz,C180,Automatic,1600.0,2015,9,Kenyan Used,2999999.0,2M-3M
+Mercedes Benz C250,Mercedes Benz,C250,Automatic,2000.0,2016,8,Foreign Used,3999999.0,3M-5M
+Bmw X1,Bmw,X1,Automatic,2000.0,2016,8,Foreign Used,3199999.0,3M-5M
+Bmw X5 Xdrive 30I,Bmw,X5 Xdrive 30I,Automatic,3000.0,2009,15,Kenyan Used,2849999.0,2M-3M
+Suzuki Escudo,Suzuki,Escudo,Automatic,1600.0,2016,8,Kenyan Used,2149999.0,2M-3M
+Bmw X5 3.0D,Bmw,X5 3.0D,Automatic,3000.0,2006,18,Kenyan Used,1469999.0,1M-2M
+Mercedes Benz Gle350D,Mercedes Benz,Gle350D,Automatic,3000.0,2017,7,Foreign Used,8999999.0,5M-10M
+Nissan Bluebird,Nissan,Bluebird,Automatic,2000.0,2008,16,Kenyan Used,599999.0,500k-1M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2013,11,Kenyan Used,1829999.0,1M-2M
+Lexus Rx450H,Lexus,Rx450H,Automatic,3500.0,2009,15,Kenyan Used,1849999.0,1M-2M
+Suzuki S Cross,Suzuki,S Cross,Automatic,1600.0,2017,7,Foreign Used,2449999.0,2M-3M
+Toyota Wish,Toyota,Wish,Automatic,1800.0,2011,13,Kenyan Used,1099999.0,1M-2M
+Toyota Ipsum,Toyota,Ipsum,Automatic,2400.0,2003,21,Kenyan Used,649999.0,500k-1M
+Mazda Cx3,Mazda,Cx3,Automatic,2000.0,2017,7,Foreign Used,2699999.0,2M-3M
+Subaru Forester Xt / Sunroof,Subaru,Forester Xt / Sunroof,Automatic,2000.0,2016,8,Foreign Used,3479999.0,3M-5M
+Toyota Premio,Toyota,Premio,Automatic,1800.0,2005,19,Kenyan Used,859999.0,500k-1M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2016,8,Foreign Used,2549999.0,2M-3M
+Mitsubishi Delica,Mitsubishi,Delica,Manual,1200.0,1979,45,Kenyan Used,399999.0,0-500k
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2017,7,Foreign Used,3749999.0,3M-5M
+Bmw X3,Bmw,X3,Automatic,2000.0,2017,7,Foreign Used,4599999.0,3M-5M
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,4499999.0,3M-5M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2008,16,Kenyan Used,749999.0,500k-1M
+Subaru Forester Xt With Roof Cargo Kit,Subaru,Forester Xt With Roof Cargo Kit,Automatic,2000.0,2014,10,Kenyan Used,2379999.0,2M-3M
+Subaru Legacy 2.0L,Subaru,Legacy 2.0L,Automatic,2000.0,2007,17,Kenyan Used,729999.0,500k-1M
+"Bmw X5 Xdrive35D ""F15"" / Pano Sunroof",Bmw,"X5 Xdrive35D ""F15"" / Pano Sunroof",Automatic,3000.0,2013,11,Kenyan Used,4399999.0,3M-5M
+Volkswagen Polo,Volkswagen,Polo,Automatic,1200.0,2011,13,Kenyan Used,789999.0,500k-1M
+Range Rover Evoque,Range Rover,Evoque,Automatic,2200.0,2017,7,Foreign Used,5299999.0,5M-10M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2015,9,Kenyan Used,3449999.0,3M-5M
+Hyundai Sante Fe,Hyundai,Sante Fe,Automatic,2200.0,2017,7,Foreign Used,3999999.0,3M-5M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Foreign Used,4299999.0,3M-5M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2014,10,Kenyan Used,2349999.0,2M-3M
+Jincheng Jc400 5,Jincheng,Jc400 5,Manual,400.0,2021,3,Kenyan Used,299999.0,0-500k
+Yamaha Wolverine,Yamaha,Wolverine,Automatic,350.0,2003,21,Kenyan Used,299999.0,0-500k
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2017,7,Foreign Used,4699999.0,3M-5M
+Range Rover Evoque Sd4,Range Rover,Evoque Sd4,Automatic,2200.0,2012,12,Kenyan Used,3599999.0,3M-5M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2016,8,Foreign Used,2599999.0,2M-3M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2010,14,Kenyan Used,1649999.0,1M-2M
+Volkswagen Golf Gt,Volkswagen,Golf Gt,Automatic,1400.0,2010,14,Kenyan Used,799999.0,500k-1M
+Mazda Bongo,Mazda,Bongo,Automatic,1500.0,2012,12,Kenyan Used,799999.0,500k-1M
+Range Rover Vogue 3.0 Tdv6 Se,Range Rover,Vogue 3.0 Tdv6 Se,Automatic,3000.0,2013,11,Kenyan Used,9699999.0,5M-10M
+Toyota Royal Crown I-Four,Toyota,Royal Crown I-Four,Automatic,2500.0,2016,8,Foreign Used,2849999.0,2M-3M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2016,8,Foreign Used,2899999.0,2M-3M
+Honda Stepwagon,Honda,Stepwagon,Automatic,2000.0,2015,9,Kenyan Used,1699999.0,1M-2M
+Volvo Xc60,Volvo,Xc60,Automatic,2000.0,2018,6,Foreign Used,5449999.0,5M-10M
+Volvo Xc60,Volvo,Xc60,Automatic,2000.0,2018,6,Foreign Used,5249999.0,5M-10M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Kenyan Used,4199999.0,3M-5M
+Mitsubishi  Ek Wagon,Mitsubishi, Ek Wagon,Automatic,660.0,2017,7,Foreign Used,789999.0,500k-1M
+Mitsubishi Outlander Phev,Mitsubishi,Outlander Phev,Automatic,2000.0,2016,8,Foreign Used,3499999.0,3M-5M
+Nissan Latio,Nissan,Latio,Automatic,1200.0,2015,9,Foreign Used,1169999.0,1M-2M
+Bmw X1,Bmw,X1,Automatic,1500.0,2016,8,Foreign Used,3399999.0,3M-5M
+Nissan Sylphy,Nissan,Sylphy,Automatic,1800.0,2013,11,Kenyan Used,1079999.0,1M-2M
+Smart Forfour,Smart,Forfour,Automatic,900.0,2017,7,Foreign Used,2839999.0,2M-3M
+Audi A6 2.8L Fsi Quattro C7 S-Line,Audi,A6 2.8L Fsi Quattro C7 S-Line,Automatic,2800.0,2015,9,Kenyan Used,2999999.0,2M-3M
+Toyota Premio 260,Toyota,Premio 260,Automatic,1800.0,2014,10,Kenyan Used,1749999.0,1M-2M
+Mercedes Benz C180,Mercedes Benz,C180,Automatic,1600.0,2014,10,Kenyan Used,2999999.0,2M-3M
+Volkswagen Touareg 3.6L V6,Volkswagen,Touareg 3.6L V6,Automatic,3600.0,2011,13,Kenyan Used,2499999.0,2M-3M
+Volkswagen Citi Golf 1.4I,Volkswagen,Citi Golf 1.4I,Automatic,1400.0,2002,22,Kenyan Used,399999.0,0-500k
+Mitsubishi Outlander Phev,Mitsubishi,Outlander Phev,Automatic,2000.0,2015,9,Kenyan Used,2899999.0,2M-3M
+Mercedes Benz Ml350 / Sunroof,Mercedes Benz,Ml350 / Sunroof,Automatic,3500.0,2009,15,Kenyan Used,1699999.0,1M-2M
+"Toyota Liteace Gl ""S402""",Toyota,"Liteace Gl ""S402""",Automatic,1500.0,2016,8,Kenyan Used,999999.0,500k-1M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2018,6,Foreign Used,1969999.0,1M-2M
+Bmw X1,Bmw,X1,Automatic,1500.0,2017,7,Foreign Used,3299999.0,3M-5M
+Volvo V40 T5 Awd 'Cross-Country' Spec,Volvo,V40 T5 Awd 'Cross-Country' Spec,Automatic,2000.0,2015,9,Kenyan Used,1849999.0,1M-2M
+Honda Fit,Honda,Fit,Automatic,1300.0,2016,8,Foreign Used,1449999.0,1M-2M
+Nissan Teana Xl,Nissan,Teana Xl,Automatic,2500.0,2016,8,Kenyan Used,1599999.0,1M-2M
+Volvo Xc60 D4,Volvo,Xc60 D4,Automatic,2000.0,2016,8,Foreign Used,2699999.0,2M-3M
+Audi Q5 2.0T,Audi,Q5 2.0T,Automatic,2000.0,2016,8,Foreign Used,4349999.0,3M-5M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2009,15,Kenyan Used,2499999.0,2M-3M
+Audi Q5 2.0T Quattro S-Line,Audi,Q5 2.0T Quattro S-Line,Automatic,2000.0,2017,7,Foreign Used,4549999.0,3M-5M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2016,8,Kenyan Used,5299999.0,5M-10M
+"Bmw 320I ""F30""",Bmw,"320I ""F30""",Automatic,2000.0,2013,11,Kenyan Used,1899999.0,1M-2M
+Peugeot 3008,Peugeot,3008,Automatic,1600.0,2017,7,Foreign Used,3099999.0,3M-5M
+Lexus Rx450H,Lexus,Rx450H,Automatic,3500.0,2008,16,Kenyan Used,1299999.0,1M-2M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Automatic,2500.0,2016,8,Kenyan Used,4599999.0,3M-5M
+Subaru Legacy,Subaru,Legacy,Automatic,2500.0,2015,9,Kenyan Used,1599999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2016,8,Foreign Used,5499999.0,5M-10M
+Audi Q5,Audi,Q5,Automatic,2000.0,2014,10,Kenyan Used,2399999.0,2M-3M
+Smart Fortwo,Smart,Fortwo,Automatic,900.0,2017,7,Foreign Used,2249999.0,2M-3M
+Smart Fortwo,Smart,Fortwo,Automatic,900.0,2017,7,Foreign Used,2999999.0,2M-3M
+Smart Fortwo,Smart,Fortwo,Automatic,900.0,2016,8,Foreign Used,2599999.0,2M-3M
+Mitsubishi Outlander / 7 Seats,Mitsubishi,Outlander / 7 Seats,Automatic,2400.0,2018,6,Foreign Used,3799999.0,3M-5M
+Mazda Cx5,Mazda,Cx5,Automatic,2500.0,2018,6,Foreign Used,3649999.0,3M-5M
+"Honda Vezel ""Rs"" Hybrid",Honda,"Vezel ""Rs"" Hybrid",Automatic,1500.0,2017,7,Foreign Used,3149999.0,3M-5M
+Mercedes Benz Gle 350D,Mercedes Benz,Gle 350D,Automatic,3000.0,2016,8,Foreign Used,9499999.0,5M-10M
+Bmw X3 Xdrive 20D M-Sport / Panoramic Sunroof,Bmw,X3 Xdrive 20D M-Sport / Panoramic Sunroof,Automatic,2000.0,2016,8,Foreign Used,4299999.0,3M-5M
+Toyota Ch-R,Toyota,Ch-R,Automatic,1800.0,2016,8,Foreign Used,3499999.0,3M-5M
+Subaru Legacy B4 / Sunroof,Subaru,Legacy B4 / Sunroof,Automatic,2500.0,2016,8,Foreign Used,2349999.0,2M-3M
+Nissan Vanette,Nissan,Vanette,Automatic,1800.0,2009,15,Kenyan Used,599999.0,500k-1M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2016,8,Foreign Used,2799999.0,2M-3M
+Nissan Teana Xl,Nissan,Teana Xl,Automatic,2500.0,2014,10,Kenyan Used,1389999.0,1M-2M
+Toyota Voxy,Toyota,Voxy,Automatic,2000.0,2016,8,Foreign Used,2199999.0,2M-3M
+Toyota Fj Cruiser,Toyota,Fj Cruiser,Automatic,4000.0,2011,13,Kenyan Used,3299999.0,3M-5M
+Peugeot 508 1.6L,Peugeot,508 1.6L,Automatic,1600.0,2013,11,Kenyan Used,1429999.0,1M-2M
+Mazda Cx5,Mazda,Cx5,Automatic,2000.0,2014,10,Kenyan Used,2349999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2013,11,Kenyan Used,689999.0,500k-1M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2013,11,Kenyan Used,3399999.0,3M-5M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2010,14,Kenyan Used,1099999.0,1M-2M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2016,8,Kenyan Used,899999.0,500k-1M
+Volvo V60 T5,Volvo,V60 T5,Automatic,2000.0,2017,7,Foreign Used,2499999.0,2M-3M
+Volkswagen Golf Tsi 1.4L,Volkswagen,Golf Tsi 1.4L,Automatic,1400.0,2015,9,Kenyan Used,1749999.0,1M-2M
+Nissan Sylphy,Nissan,Sylphy,Automatic,1800.0,2014,10,Kenyan Used,1249999.0,1M-2M
+Mercedes Benz E220D,Mercedes Benz,E220D,Automatic,2200.0,2016,8,Foreign Used,3449999.0,3M-5M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2016,8,Kenyan Used,2999999.0,2M-3M
+Nissan Note Dig-S,Nissan,Note Dig-S,Automatic,1200.0,2013,11,Kenyan Used,779999.0,500k-1M
+Mitsubishi Pajero Sport,Mitsubishi,Pajero Sport,Automatic,2400.0,2017,7,Foreign Used,5649999.0,5M-10M
+Bmw X1,Bmw,X1,Automatic,2000.0,2012,12,Kenyan Used,1549999.0,1M-2M
+"Toyota Fielder 1.5 ""G""",Toyota,"Fielder 1.5 ""G""",Automatic,1500.0,2016,8,Kenyan Used,1889999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2014,10,Kenyan Used,3649999.0,3M-5M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2016,8,Foreign Used,3499999.0,3M-5M
+Mazda Demio,Mazda,Demio,Automatic,1500.0,2016,8,Foreign Used,1249999.0,1M-2M
+Toyota Premio 1.8L,Toyota,Premio 1.8L,Automatic,1800.0,2012,12,Kenyan Used,1399999.0,1M-2M
+Jeep Wrangler,Jeep,Wrangler,Automatic,3600.0,2017,7,Foreign Used,5599999.0,5M-10M
+Nissan Sylphy,Nissan,Sylphy,Automatic,1800.0,2016,8,Kenyan Used,1189999.0,1M-2M
+Volvo Xc90,Volvo,Xc90,Automatic,2000.0,2017,7,Foreign Used,6599999.0,5M-10M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2017,7,Kenyan Used,2599999.0,2M-3M
+Subaru Outback / Sunroof,Subaru,Outback / Sunroof,Automatic,2500.0,2010,14,Kenyan Used,1249999.0,1M-2M
+Honda Fit,Honda,Fit,Automatic,1300.0,2012,12,Kenyan Used,699999.0,500k-1M
+Toyota Landcruiser Prado Tz-G,Toyota,Landcruiser Prado Tz-G,Automatic,4000.0,2010,14,Kenyan Used,3999999.0,3M-5M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2016,8,Foreign Used,2399999.0,2M-3M
+Toyota Probox,Toyota,Probox,Automatic,1500.0,2013,11,Kenyan Used,989999.0,500k-1M
+Mazda Cx3,Mazda,Cx3,Automatic,1500.0,2016,8,Kenyan Used,2149999.0,2M-3M
+Subaru Levorg 1.6L,Subaru,Levorg 1.6L,Automatic,1600.0,2016,8,Kenyan Used,1779999.0,1M-2M
+Bmw 320I 2.2L,Bmw,320I 2.2L,Automatic,2200.0,2002,22,Kenyan Used,629999.0,500k-1M
+Audi Q3 2.0T Quattro S-Line,Audi,Q3 2.0T Quattro S-Line,Automatic,2000.0,2014,10,Kenyan Used,2799999.0,2M-3M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2015,9,Kenyan Used,3249999.0,3M-5M
+Subaru Impreza G4,Subaru,Impreza G4,Automatic,2000.0,2013,11,Kenyan Used,1149999.0,1M-2M
+Smart Fortwo,Smart,Fortwo,Automatic,900.0,2017,7,Foreign Used,2699999.0,2M-3M
+Audi A3,Audi,A3,Automatic,1800.0,2016,8,Kenyan Used,1999999.0,1M-2M
+Toyota Landcruiser Prado Vx-L,Toyota,Landcruiser Prado Vx-L,Automatic,2800.0,2016,8,Kenyan Used,7499999.0,5M-10M
+Porsche Cayenne,Porsche,Cayenne,Automatic,2900.0,2019,5,Kenyan Used,14499999.0,Above 10
+Mazda Cx5,Mazda,Cx5,Automatic,2500.0,2016,8,Kenyan Used,2649999.0,2M-3M
+Mazda Atenza,Mazda,Atenza,Automatic,2500.0,2016,8,Foreign Used,2849999.0,2M-3M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2016,8,Foreign Used,2199999.0,2M-3M
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,5599999.0,5M-10M
+Honda Jade,Honda,Jade,Automatic,1500.0,2016,8,Foreign Used,2149999.0,2M-3M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2016,8,Foreign Used,3749999.0,3M-5M
+Ford Kuga Titanium,Ford,Kuga Titanium,Automatic,1600.0,2014,10,Kenyan Used,1199999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2999999.0,2M-3M
+"Nissan Xtrail ""Nt32""",Nissan,"Xtrail ""Nt32""",Automatic,2000.0,2014,10,Kenyan Used,1799999.0,1M-2M
+Bmw 523I,Bmw,523I,Automatic,2000.0,2014,10,Kenyan Used,2399999.0,2M-3M
+"Bmw X6 ""F16"" Xdrive 35I",Bmw,"X6 ""F16"" Xdrive 35I",Automatic,3000.0,2017,7,Foreign Used,5699999.0,5M-10M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2007,17,Kenyan Used,859999.0,500k-1M
+Bmw 318I,Bmw,318I,Automatic,2000.0,2005,19,Kenyan Used,589999.0,500k-1M
+Mercedes Benz A180,Mercedes Benz,A180,Automatic,1600.0,2015,9,Kenyan Used,1999999.0,1M-2M
+Volkswagen Touareg Hybrid,Volkswagen,Touareg Hybrid,Automatic,3000.0,2011,13,Kenyan Used,2749999.0,2M-3M
+Mazda Cx-5 2.5L Awd,Mazda,Cx-5 2.5L Awd,Automatic,2500.0,2017,7,Foreign Used,3599999.0,3M-5M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,4000.0,2006,18,Kenyan Used,1999999.0,1M-2M
+Mercedes Benz C200 Kompressor,Mercedes Benz,C200 Kompressor,Automatic,1800.0,2009,15,Kenyan Used,1549999.0,1M-2M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2006,18,Kenyan Used,819999.0,500k-1M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2016,8,Foreign Used,1299999.0,1M-2M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2017,7,Foreign Used,3449999.0,3M-5M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2800.0,2019,5,Foreign Used,9699999.0,5M-10M
+Suzuki Swift Sport 1.6,Suzuki,Swift Sport 1.6,Automatic,1600.0,2016,8,Foreign Used,1499999.0,1M-2M
+Toyota Voxy,Toyota,Voxy,Automatic,2000.0,2016,8,Foreign Used,2699999.0,2M-3M
+Range Rover Classic 3.5L V8,Range Rover,Classic 3.5L V8,Manual,3500.0,1981,43,Kenyan Used,1149999.0,1M-2M
+Mazda Cx-5 2.2D Awd,Mazda,Cx-5 2.2D Awd,Automatic,2200.0,2017,7,Foreign Used,3349999.0,3M-5M
+Mercedes Benz C200 / Panoramic Sunroof,Mercedes Benz,C200 / Panoramic Sunroof,Automatic,2000.0,2016,8,Foreign Used,4449999.0,3M-5M
+Volkswagen Golf 1.4L Tsi,Volkswagen,Golf 1.4L Tsi,Automatic,1400.0,2016,8,Foreign Used,1949999.0,1M-2M
+Volkswagen Golf Tsi 1.4L,Volkswagen,Golf Tsi 1.4L,Automatic,1400.0,2016,8,Foreign Used,1999999.0,1M-2M
+Land Rover Discovery Iv,Land Rover,Discovery Iv,Automatic,3000.0,2012,12,Kenyan Used,3999999.0,3M-5M
+"Jeep Compass ""Mk49""",Jeep,"Compass ""Mk49""",Automatic,2000.0,2016,8,Kenyan Used,2799999.0,2M-3M
+Mazda Cx-5 2.2D Awd,Mazda,Cx-5 2.2D Awd,Automatic,2200.0,2017,7,Kenyan Used,3099999.0,3M-5M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2014,10,Kenyan Used,969999.0,500k-1M
+Toyota Premio,Toyota,Premio,Automatic,1800.0,2009,15,Kenyan Used,999999.0,500k-1M
+Porsche Cayenne 3.0L V6 / Panoramic Sunroof,Porsche,Cayenne 3.0L V6 / Panoramic Sunroof,Automatic,3000.0,2013,11,Kenyan Used,3999999.0,3M-5M
+Range Rover Evoque,Range Rover,Evoque,Automatic,2000.0,2013,11,Kenyan Used,3349999.0,3M-5M
+Isuzu Frr,Isuzu,Frr,Automatic,5200.0,2021,3,Kenyan Used,5399999.0,5M-10M
+Volkswagen Golf Variant  R-Line 1.4L Tsi,Volkswagen,Golf Variant  R-Line 1.4L Tsi,Automatic,1400.0,2014,10,Kenyan Used,1599999.0,1M-2M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2015,9,Kenyan Used,1099999.0,1M-2M
+"Toyota Landcruiser ""Zx"" / Sunroof/ 8 Seat Occupancy",Toyota,"Landcruiser ""Zx"" / Sunroof/ 8 Seat Occupancy",Automatic,4600.0,2016,8,Kenyan Used,8899999.0,5M-10M
+Nissan Skyline,Nissan,Skyline,Automatic,2500.0,2011,13,Kenyan Used,999999.0,500k-1M
+Toyota Landcruiser Prado J120,Toyota,Landcruiser Prado J120,Automatic,2700.0,2006,18,Kenyan Used,2099999.0,2M-3M
+Subaru Legacy B4,Subaru,Legacy B4,Automatic,2500.0,2016,8,Foreign Used,2629999.0,2M-3M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2016,8,Foreign Used,3949999.0,3M-5M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2016,8,Kenyan Used,1599999.0,1M-2M
+Nissan Juke,Nissan,Juke,Automatic,1500.0,2014,10,Kenyan Used,1349999.0,1M-2M
+Audi A5,Audi,A5,Automatic,2000.0,2017,7,Foreign Used,4899999.0,3M-5M
+Volkswagen Golf R Variant,Volkswagen,Golf R Variant,Automatic,2000.0,2015,9,Foreign Used,3999999.0,3M-5M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2016,8,Foreign Used,1649999.0,1M-2M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2016,8,Foreign Used,1949999.0,1M-2M
+Mazda Demio 1.3L,Mazda,Demio 1.3L,Automatic,1300.0,2016,8,Foreign Used,1249999.0,1M-2M
+Toyota Porte,Toyota,Porte,Automatic,1500.0,2015,9,Foreign Used,1160000.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2014,10,Kenyan Used,2949999.0,2M-3M
+Toyota Fielder 'G',Toyota,Fielder 'G',Automatic,1500.0,2016,8,Foreign Used,1749999.0,1M-2M
+Jeep Grand Cherokee 'Trailhawk',Jeep,Grand Cherokee 'Trailhawk',Automatic,3600.0,2017,7,Foreign Used,5399999.0,5M-10M
+Jeep Grand Cherokee,Jeep,Grand Cherokee,Automatic,3600.0,2016,8,Foreign Used,4899999.0,3M-5M
+Jeep Renegade,Jeep,Renegade,Automatic,1400.0,2017,7,Foreign Used,2399999.0,2M-3M
+Nissan Teana Xl,Nissan,Teana Xl,Automatic,2500.0,2015,9,Kenyan Used,1369999.0,1M-2M
+Audi A3,Audi,A3,Automatic,1400.0,2017,7,Foreign Used,2749999.0,2M-3M
+Subaru Forester Na / Panoramic Sunroof,Subaru,Forester Na / Panoramic Sunroof,Automatic,2000.0,2012,12,Kenyan Used,1999999.0,1M-2M
+Toyota Belta,Toyota,Belta,Automatic,1300.0,2008,16,Kenyan Used,665000.0,500k-1M
+Bmw X3 Xdrive 20D M-Sport / Panoramic Sunroof,Bmw,X3 Xdrive 20D M-Sport / Panoramic Sunroof,Automatic,2000.0,2017,7,Foreign Used,4249999.0,3M-5M
+Nissan Sylphy,Nissan,Sylphy,Automatic,1800.0,2016,8,Foreign Used,1549999.0,1M-2M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2016,8,Foreign Used,2099999.0,2M-3M
+Mazda Demio 1.3L,Mazda,Demio 1.3L,Automatic,1300.0,2017,7,Foreign Used,1399999.0,1M-2M
+Bmw X6 Xdrive 35I,Bmw,X6 Xdrive 35I,Automatic,3000.0,2011,13,Kenyan Used,3199999.0,3M-5M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2017,7,Foreign Used,3549999.0,3M-5M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2017,7,Foreign Used,3099999.0,3M-5M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2016,8,Foreign Used,2599999.0,2M-3M
+Toyota Harrier Premium,Toyota,Harrier Premium,Automatic,2000.0,2016,8,Foreign Used,3599999.0,3M-5M
+"Toyota Landcruiser ""Zx"" 200 Series 4.6L V8",Toyota,"Landcruiser ""Zx"" 200 Series 4.6L V8",Automatic,4600.0,2017,7,Foreign Used,11999999.0,Above 10
+Volvo Xc60,Volvo,Xc60,Automatic,2000.0,2016,8,Foreign Used,3099999.0,3M-5M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2017,7,Foreign Used,5849999.0,5M-10M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Automatic,2500.0,2016,8,Foreign Used,5399999.0,5M-10M
+Audi A6 2.0L Quattro C7.5,Audi,A6 2.0L Quattro C7.5,Automatic,2000.0,2017,7,Foreign Used,3949999.0,3M-5M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2017,7,Foreign Used,1399999.0,1M-2M
+Nissan Elgrand,Nissan,Elgrand,Automatic,2500.0,2016,8,Foreign Used,2449999.0,2M-3M
+Audi Q7 2.0T Quattro,Audi,Q7 2.0T Quattro,Automatic,2000.0,2016,8,Foreign Used,5949999.0,5M-10M
+Audi A5,Audi,A5,Automatic,2000.0,2017,7,Foreign Used,4549999.0,3M-5M
+Toyota Landcruiser 200 Series 4.6L V8,Toyota,Landcruiser 200 Series 4.6L V8,Automatic,4600.0,2010,14,Kenyan Used,7499999.0,5M-10M
+Mazda Demio 1.3L,Mazda,Demio 1.3L,Automatic,1300.0,2016,8,Foreign Used,1299999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Foreign Used,4199999.0,3M-5M
+Toyota Landcruiser Prado Tx / Sunroof / 7 Seater,Toyota,Landcruiser Prado Tx / Sunroof / 7 Seater,Automatic,2700.0,2015,9,Kenyan Used,4849999.0,3M-5M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2014,10,Kenyan Used,2349999.0,2M-3M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2017,7,Foreign Used,1269999.0,1M-2M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2014,10,Kenyan Used,2249999.0,2M-3M
+Audi Q3 2.0T Quattro S-Line,Audi,Q3 2.0T Quattro S-Line,Automatic,2000.0,2016,8,Kenyan Used,3149999.0,3M-5M
+Volkswagen Golf Tsi 1.2L,Volkswagen,Golf Tsi 1.2L,Automatic,1200.0,2015,9,Kenyan Used,1699999.0,1M-2M
+Volkswagen Golf 2.0L Fsi,Volkswagen,Golf 2.0L Fsi,Automatic,2000.0,2003,21,Kenyan Used,599999.0,500k-1M
+Volkswagen Golf Variant 1.4L Tsi,Volkswagen,Golf Variant 1.4L Tsi,Automatic,1400.0,2016,8,Foreign Used,1999999.0,1M-2M
+Mazda Cx-5 2.5L,Mazda,Cx-5 2.5L,Automatic,2500.0,2017,7,Foreign Used,3699999.0,3M-5M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2017,7,Foreign Used,3249999.0,3M-5M
+Volkswagen Passat Variant 1.4L,Volkswagen,Passat Variant 1.4L,Automatic,1400.0,2016,8,Foreign Used,2199999.0,2M-3M
+Toyota Wish,Toyota,Wish,Automatic,1800.0,2016,8,Foreign Used,2499999.0,2M-3M
+Porsche Cayenne 3.0L V6,Porsche,Cayenne 3.0L V6,Automatic,3000.0,2013,11,Kenyan Used,3949999.0,3M-5M
+Mitsubishi Galant Gdi,Mitsubishi,Galant Gdi,Automatic,2000.0,1998,26,Kenyan Used,275000.0,0-500k
+Toyota Crown Athlete / Sunroof,Toyota,Crown Athlete / Sunroof,Automatic,2500.0,2013,11,Kenyan Used,1849999.0,1M-2M
+Nissan Bluebird,Nissan,Bluebird,Automatic,2000.0,2009,15,Kenyan Used,749999.0,500k-1M
+Land Rover Discovery Iv / 3-Zone Sunroof,Land Rover,Discovery Iv / 3-Zone Sunroof,Automatic,3000.0,2015,9,Kenyan Used,5499999.0,5M-10M
+Toyota Camry,Toyota,Camry,Automatic,2500.0,2014,10,Kenyan Used,1699999.0,1M-2M
+Audi A6 Quattro C7.5,Audi,A6 Quattro C7.5,Automatic,2000.0,2016,8,Foreign Used,3299999.0,3M-5M
+Audi A5 2.0T Quattro S-Line,Audi,A5 2.0T Quattro S-Line,Automatic,2000.0,2016,8,Foreign Used,3549999.0,3M-5M
+Peugeot 308 Gt-Line,Peugeot,308 Gt-Line,Automatic,1200.0,2017,7,Foreign Used,1979999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2010,14,Kenyan Used,1549999.0,1M-2M
+Mazda Demio 1.5L,Mazda,Demio 1.5L,Automatic,1500.0,2017,7,Foreign Used,1449999.0,1M-2M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2014,10,Kenyan Used,1499999.0,1M-2M
+Volvo Xc60 D4 / Pano Sunroof,Volvo,Xc60 D4 / Pano Sunroof,Automatic,2000.0,2019,5,Foreign Used,6499999.0,5M-10M
+Mazda Cx-5 2.2D Awd / Sunroof,Mazda,Cx-5 2.2D Awd / Sunroof,Automatic,2200.0,2017,7,Foreign Used,3849999.0,3M-5M
+Toyota Corolla G-Touring,Toyota,Corolla G-Touring,Automatic,1600.0,1998,26,Kenyan Used,449999.0,0-500k
+Toyota Passo,Toyota,Passo,Automatic,1000.0,2016,8,Foreign Used,1149999.0,1M-2M
+Toyota Landcruiser Prado Gdj150 / Sunroof,Toyota,Landcruiser Prado Gdj150 / Sunroof,Automatic,2800.0,2015,9,Kenyan Used,5499999.0,5M-10M
+Bmw  X3 Xdrive 20D M-Sport,Bmw, X3 Xdrive 20D M-Sport,Automatic,2000.0,2016,8,Foreign Used,4149999.0,3M-5M
+"Volvo Xc60 T5 ""Inscription"" Awd",Volvo,"Xc60 T5 ""Inscription"" Awd",Automatic,2000.0,2016,8,Foreign Used,4349999.0,3M-5M
+Lexus Nx200T,Lexus,Nx200T,Automatic,2000.0,2016,8,Kenyan Used,4999999.0,3M-5M
+Mercedes Benz E350 / Sunroof,Mercedes Benz,E350 / Sunroof,Automatic,3500.0,2012,12,Kenyan Used,2949999.0,2M-3M
+"Nissan Patrol Nismo ""Y62""  / Sunroof",Nissan,"Patrol Nismo ""Y62""  / Sunroof",Automatic,5600.0,2016,8,Kenyan Used,8599999.0,5M-10M
+Range Rover Sport Autobiography 5.0L V8 Supercharged / Pano Sunroof,Range Rover,Sport Autobiography 5.0L V8 Supercharged / Pano Sunroof,Automatic,5000.0,2013,11,Kenyan Used,7999999.0,5M-10M
+Land Rover Defender 110,Land Rover,Defender 110,Manual,2500.0,2011,13,Kenyan Used,4099999.0,3M-5M
+Peugeot 2008 / Moonroof,Peugeot,2008 / Moonroof,Automatic,1200.0,2017,7,Foreign Used,2099999.0,2M-3M
+Peugeot 508 / Moonroof,Peugeot,508 / Moonroof,Automatic,1600.0,2017,7,Foreign Used,2479999.0,2M-3M
+Volvo Xc60 D4 / Sunroof,Volvo,Xc60 D4 / Sunroof,Automatic,2000.0,2016,8,Foreign Used,3849999.0,3M-5M
+Toyota Succeed,Toyota,Succeed,Automatic,1500.0,2016,8,Foreign Used,1299999.0,1M-2M
+Mazda Demio 1.3L,Mazda,Demio 1.3L,Automatic,1300.0,2012,12,Kenyan Used,479999.0,0-500k
+Mazda Demio 1.3L,Mazda,Demio 1.3L,Automatic,1300.0,2017,7,Foreign Used,1299999.0,1M-2M
+Audi Sq5 3.0L (Tfsi) Quattro,Audi,Sq5 3.0L (Tfsi) Quattro,Automatic,3000.0,2017,7,Foreign Used,6899999.0,5M-10M
+Nissan Patrol Le 'Y62'  5.6L V8 / Sunroof,Nissan,Patrol Le 'Y62'  5.6L V8 / Sunroof,Automatic,5600.0,2016,8,Foreign Used,8499999.0,5M-10M
+Toyota Landcruiser 4.5L V8,Toyota,Landcruiser 4.5L V8,Automatic,4500.0,2014,10,Foreign Used,8499999.0,5M-10M
+Volkswagen Golf 1.2L Tsi,Volkswagen,Golf 1.2L Tsi,Automatic,1200.0,2011,13,Kenyan Used,769999.0,500k-1M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2016,8,Foreign Used,2649999.0,2M-3M
+Lexus Rx450H / Sunroof,Lexus,Rx450H / Sunroof,Automatic,3500.0,2016,8,Foreign Used,7199999.0,5M-10M
+"Volvo Xc60 T5 ""Inscription"" Awd",Volvo,"Xc60 T5 ""Inscription"" Awd",Automatic,2000.0,2018,6,Foreign Used,5799999.0,5M-10M
+Toyota Passo,Toyota,Passo,Automatic,1000.0,2010,14,Kenyan Used,575000.0,500k-1M
+Ford Escape Xlt,Ford,Escape Xlt,Automatic,3000.0,2006,18,Kenyan Used,749999.0,500k-1M
+Volkswagen Golf Variant 1.4L Tsi,Volkswagen,Golf Variant 1.4L Tsi,Automatic,1400.0,2013,11,Kenyan Used,1149999.0,1M-2M
+Nissan Nv200,Nissan,Nv200,Automatic,1500.0,2016,8,Foreign Used,1849999.0,1M-2M
+Suzuki Jimny 'Land Venture',Suzuki,Jimny 'Land Venture',Automatic,660.0,2016,8,Foreign Used,1549999.0,1M-2M
+Audi A3,Audi,A3,Automatic,1400.0,2016,8,Foreign Used,2349999.0,2M-3M
+Toyota Rush,Toyota,Rush,Automatic,1500.0,2009,15,Kenyan Used,1149999.0,1M-2M
+Bmw 320D 'F30',Bmw,320D 'F30',Automatic,2000.0,2014,10,Kenyan Used,2449999.0,2M-3M
+Lexus Rx350 / Sunroof,Lexus,Rx350 / Sunroof,Automatic,3500.0,2008,16,Kenyan Used,2249999.0,2M-3M
+Toyota Avensis T3-X / Manual,Toyota,Avensis T3-X / Manual,Manual,1800.0,2005,19,Kenyan Used,679999.0,500k-1M
+Kawasaki Ninja 400Cc,Kawasaki,Ninja 400Cc,Automatic,400.0,2017,7,Foreign Used,999999.0,500k-1M
+Toyota Landcruiser Prado Tx J150,Toyota,Landcruiser Prado Tx J150,Automatic,2700.0,2012,12,Kenyan Used,3349999.0,3M-5M
+Jeep Cherokee Sport 2.5L,Jeep,Cherokee Sport 2.5L,Automatic,2500.0,2002,22,Kenyan Used,1199999.0,1M-2M
+Toyota Fielder Wxb Hybrid,Toyota,Fielder Wxb Hybrid,Automatic,1800.0,2017,7,Foreign Used,2199999.0,2M-3M
+Toyota Probox,Toyota,Probox,Automatic,1500.0,2016,8,Foreign Used,1289999.0,1M-2M
+Volkswagen Tiguan 1.4Tsi,Volkswagen,Tiguan 1.4Tsi,Automatic,1400.0,2017,7,Foreign Used,3849999.0,3M-5M
+Mercedes Benz E350 / Sunroof,Mercedes Benz,E350 / Sunroof,Automatic,3000.0,2015,9,Kenyan Used,3549999.0,3M-5M
+"Toyota Landcruiser Prado ""Tx"" J150",Toyota,"Landcruiser Prado ""Tx"" J150",Automatic,2700.0,2014,10,Kenyan Used,4199999.0,3M-5M
+Citreon C4 1.6 Bluehdi,Citreon,C4 1.6 Bluehdi,Automatic,1600.0,2017,7,Foreign Used,1699999.0,1M-2M
+Porsche Cayenne 3.6L V6 'Platinum Edition' With Sunroof,Porsche,Cayenne 3.6L V6 'Platinum Edition' With Sunroof,Automatic,3600.0,2015,9,Kenyan Used,6499999.0,5M-10M
+Volvo S60 T3,Volvo,S60 T3,Automatic,1600.0,2017,7,Foreign Used,2399999.0,2M-3M
+Honda Legend 3.5L V6 Hybrid,Honda,Legend 3.5L V6 Hybrid,Automatic,3500.0,2016,8,Foreign Used,3549999.0,3M-5M
+Subaru Wrx S4,Subaru,Wrx S4,Automatic,2000.0,2015,9,Kenyan Used,2149999.0,2M-3M
+Hyundai Santa Fe 2.2L Diesel / Panoramic Sunroof,Hyundai,Santa Fe 2.2L Diesel / Panoramic Sunroof,Automatic,2200.0,2015,9,Kenyan Used,3299999.0,3M-5M
+Ford Ecosport Titanium,Ford,Ecosport Titanium,Automatic,1500.0,2017,7,Kenyan Used,1749999.0,1M-2M
+Ford Ranger Limited 2.2L,Ford,Ranger Limited 2.2L,Automatic,2200.0,2016,8,Foreign Used,5699999.0,5M-10M
+Mazda Premacy 2.2L Diesel,Mazda,Premacy 2.2L Diesel,Automatic,2200.0,2012,12,Kenyan Used,1099999.0,1M-2M
+Toyota Landcruiser Gxr 4.5L V8 / Manual,Toyota,Landcruiser Gxr 4.5L V8 / Manual,Automatic,4500.0,2016,8,Kenyan Used,8199999.0,5M-10M
+Audi A4 2.0T Quattro,Audi,A4 2.0T Quattro,Automatic,2000.0,2014,10,Kenyan Used,2299999.0,2M-3M
+Audi Q7 3.0L Tdi,Audi,Q7 3.0L Tdi,Automatic,3000.0,2007,17,Kenyan Used,2199999.0,2M-3M
+Toyota Rush 4Wd,Toyota,Rush 4Wd,Automatic,1500.0,2013,11,Kenyan Used,1199999.0,1M-2M
+Toyota Rav4 2.5 Hybrid,Toyota,Rav4 2.5 Hybrid,Automatic,2500.0,2021,3,Foreign Used,5799999.0,5M-10M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2017,7,Foreign Used,1399999.0,1M-2M
+Toyota Esquire,Toyota,Esquire,Automatic,2000.0,2016,8,Foreign Used,2599999.0,2M-3M
+Nissan Xtrail Mode-Premier Autech,Nissan,Xtrail Mode-Premier Autech,Automatic,2000.0,2016,8,Foreign Used,2399999.0,2M-3M
+Audi Sq5 3.0T V6 Quattro,Audi,Sq5 3.0T V6 Quattro,Automatic,3000.0,2018,6,Foreign Used,7499999.0,5M-10M
+Peugeot 308 Gt '2.0L Diesel',Peugeot,308 Gt '2.0L Diesel',Automatic,2000.0,2017,7,Foreign Used,2449999.0,2M-3M
+Peugeot 2008,Peugeot,2008,Automatic,1200.0,2016,8,Foreign Used,1999999.0,1M-2M
+Mercedes Benz Gle 350D Coupe / Sunroof,Mercedes Benz,Gle 350D Coupe / Sunroof,Automatic,3000.0,2016,8,Foreign Used,9999999.0,5M-10M
+Subaru Levorg 1.6L,Subaru,Levorg 1.6L,Automatic,1600.0,2015,9,Kenyan Used,1699999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2016,8,Foreign Used,3749999.0,3M-5M
+Mazda Cx-5 2.5L,Mazda,Cx-5 2.5L,Automatic,2500.0,2016,8,Foreign Used,2849999.0,2M-3M
+Ford Escape Limited/ Sunroof,Ford,Escape Limited/ Sunroof,Automatic,2300.0,2012,12,Kenyan Used,1599999.0,1M-2M
+"Mazda Cx-5 ""2.0L Na""",Mazda,"Cx-5 ""2.0L Na""",Automatic,2000.0,2018,6,Foreign Used,3699999.0,3M-5M
+Jeep Wrangler Unlimited Sport / 4Wd Winch,Jeep,Wrangler Unlimited Sport / 4Wd Winch,Automatic,3600.0,2016,8,Foreign Used,6799999.0,5M-10M
+Mercedes Benz C250,Mercedes Benz,C250,Automatic,2000.0,2015,9,Kenyan Used,3799999.0,3M-5M
+Toyota Wish,Toyota,Wish,Automatic,1800.0,2015,9,Kenyan Used,1489999.0,1M-2M
+"Nissan Xtrail ""Hnt32"" / Sunroof",Nissan,"Xtrail ""Hnt32"" / Sunroof",Automatic,2000.0,2017,7,Foreign Used,2579999.0,2M-3M
+Land Rover Discovery Iv / 3-Zone Sunroofs,Land Rover,Discovery Iv / 3-Zone Sunroofs,Automatic,3000.0,2012,12,Kenyan Used,3999999.0,3M-5M
+Toyota Landcruiser Vx-R,Toyota,Landcruiser Vx-R,Automatic,4500.0,2014,10,Kenyan Used,7899999.0,5M-10M
+Volkswagen Passat,Volkswagen,Passat,Automatic,1800.0,2011,13,Kenyan Used,1149999.0,1M-2M
+Mazda Cx-3 1.5D,Mazda,Cx-3 1.5D,Automatic,1500.0,2016,8,Foreign Used,2099999.0,2M-3M
+Audi Sq5 3.0T V6 Quattro/Panoramic Sunroof,Audi,Sq5 3.0T V6 Quattro/Panoramic Sunroof,Automatic,3000.0,2016,8,Foreign Used,5599999.0,5M-10M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2016,8,Foreign Used,1349999.0,1M-2M
+Dodge Charger 3.6L V6,Dodge,Charger 3.6L V6,Automatic,3600.0,2014,10,Kenyan Used,6499999.0,5M-10M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1119999.0,1M-2M
+Toyota Landcruiser Prado Tx/Sunroof,Toyota,Landcruiser Prado Tx/Sunroof,Automatic,2700.0,2012,12,Kenyan Used,3349999.0,3M-5M
+Toyota Porte,Toyota,Porte,Automatic,1300.0,2016,8,Kenyan Used,1199999.0,1M-2M
+Mercedes Benz G350D With 'Brabus Bodykit',Mercedes Benz,G350D With 'Brabus Bodykit',Automatic,3000.0,2014,10,Kenyan Used,13999999.0,Above 10
+Subaru Forester 2.0 Non-Turbo,Subaru,Forester 2.0 Non-Turbo,Automatic,2000.0,2014,10,Kenyan Used,2549999.0,2M-3M
+Land Rover Discovery Iv 'Xs Spec',Land Rover,Discovery Iv 'Xs Spec',Automatic,3000.0,2011,13,Kenyan Used,3449999.0,3M-5M
+Audi Q5 2.0T,Audi,Q5 2.0T,Automatic,2000.0,2017,7,Foreign Used,4849999.0,3M-5M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2016,8,Foreign Used,1799999.0,1M-2M
+Jeep Wrangler Unlimited Sahara,Jeep,Wrangler Unlimited Sahara,Automatic,3600.0,2012,12,Kenyan Used,2999999.0,2M-3M
+Nissan Serena,Nissan,Serena,Automatic,2000.0,2018,6,Kenyan Used,1949999.0,1M-2M
+Toyota Porte,Toyota,Porte,Automatic,1300.0,2014,10,Kenyan Used,849999.0,500k-1M
+Nissan Note Dig-S,Nissan,Note Dig-S,Automatic,1200.0,2016,8,Foreign Used,1099999.0,1M-2M
+Nissan Wingroad,Nissan,Wingroad,Automatic,1500.0,2007,17,Kenyan Used,465000.0,0-500k
+Mazda Cx-5 2.2D Awd,Mazda,Cx-5 2.2D Awd,Automatic,2200.0,2017,7,Foreign Used,3199999.0,3M-5M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2018,6,Foreign Used,1419999.0,1M-2M
+Toyota Prius 'Hybrid Synergy',Toyota,Prius 'Hybrid Synergy',Automatic,1800.0,2010,14,Kenyan Used,859999.0,500k-1M
+Nissan Dayz,Nissan,Dayz,Automatic,660.0,2016,8,Foreign Used,849999.0,500k-1M
+Nissan Dayz,Nissan,Dayz,Automatic,660.0,2016,8,Foreign Used,799999.0,500k-1M
+Jeep Grand Cherokee 3.6 Limited 4×4 / Panoramic Sunroof,Jeep,Grand Cherokee 3.6 Limited 4×4 / Panoramic Sunroof,Automatic,3600.0,2017,7,Foreign Used,5999999.0,5M-10M
+Subaru Legacy B4,Subaru,Legacy B4,Automatic,2500.0,2016,8,Foreign Used,2249999.0,2M-3M
+Mitsubishi Rvr,Mitsubishi,Rvr,Automatic,1800.0,2011,13,Kenyan Used,1299999.0,1M-2M
+Bmw X6 Xdrive M50D 'N57' Tri-Turbo,Bmw,X6 Xdrive M50D 'N57' Tri-Turbo,Automatic,3000.0,2013,11,Kenyan Used,3499999.0,3M-5M
+Subaru Legacy,Subaru,Legacy,Automatic,2500.0,2010,14,Kenyan Used,1049999.0,1M-2M
+Bmw X3 Xdrive 25I,Bmw,X3 Xdrive 25I,Automatic,2500.0,2010,14,Kenyan Used,1799999.0,1M-2M
+"Toyota Fielder ""S"" Aerotourer",Toyota,"Fielder ""S"" Aerotourer",Automatic,1800.0,2012,12,Kenyan Used,1349999.0,1M-2M
+Renault Kadjar,Renault,Kadjar,Automatic,1200.0,2016,8,Kenyan Used,2499999.0,2M-3M
+Nissan Sunny B15,Nissan,Sunny B15,Automatic,1500.0,2004,20,Kenyan Used,355000.0,0-500k
+Porsche Cayenne 3.0 V6 'Typ 92A',Porsche,Cayenne 3.0 V6 'Typ 92A',Automatic,3000.0,2016,8,Foreign Used,6999999.0,5M-10M
+Volvo V40 T5 R-Design,Volvo,V40 T5 R-Design,Automatic,2500.0,2017,7,Foreign Used,2699999.0,2M-3M
+Volkswagen Golf Gti Mk7.5 / Sunroof,Volkswagen,Golf Gti Mk7.5 / Sunroof,Automatic,2000.0,2018,6,Foreign Used,3699999.0,3M-5M
+Volkswagen Golf Gti Mk7 / Sunroof,Volkswagen,Golf Gti Mk7 / Sunroof,Automatic,2000.0,2017,7,Foreign Used,3249999.0,3M-5M
+Audi A4 B9 Quattro Allroad Spec,Audi,A4 B9 Quattro Allroad Spec,Automatic,2000.0,2017,7,Foreign Used,4499999.0,3M-5M
+Toyota Fielder X G-Edition,Toyota,Fielder X G-Edition,Automatic,1500.0,2008,16,Kenyan Used,829999.0,500k-1M
+Volkswagen Up!,Volkswagen,Up!,Automatic,1000.0,2016,8,Foreign Used,1599999.0,1M-2M
+Audi A5,Audi,A5,Automatic,2000.0,2013,11,Kenyan Used,2299999.0,2M-3M
+Volkswagen Golf Gti,Volkswagen,Golf Gti,Automatic,2000.0,2015,9,Kenyan Used,2449999.0,2M-3M
+Volvo V60 D4 R-Design,Volvo,V60 D4 R-Design,Automatic,2000.0,2016,8,Foreign Used,2599999.0,2M-3M
+Toyota Celica,Toyota,Celica,Manual,1800.0,1999,25,Kenyan Used,865000.0,500k-1M
+Mercedes Benz C200 /Sunroof,Mercedes Benz,C200 /Sunroof,Automatic,2000.0,2017,7,Foreign Used,4699999.0,3M-5M
+Toyota Probox,Toyota,Probox,Automatic,1500.0,2015,9,Kenyan Used,1119999.0,1M-2M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2014,10,Kenyan Used,2999999.0,2M-3M
+Toyota Mark X,Toyota,Mark X,Automatic,2500.0,2010,14,Kenyan Used,1299999.0,1M-2M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2015,9,Foreign Used,1449999.0,1M-2M
+Nissan Note,Nissan,Note,Automatic,1200.0,2011,13,Kenyan Used,719999.0,500k-1M
+Nissan Note Medalist,Nissan,Note Medalist,Automatic,1200.0,2016,8,Foreign Used,1299999.0,1M-2M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2016,8,Foreign Used,3649999.0,3M-5M
+Renault Duster,Renault,Duster,Automatic,1600.0,2017,7,Kenyan Used,1449999.0,1M-2M
+Lexus Nx200T/Sunroof,Lexus,Nx200T/Sunroof,Automatic,2000.0,2015,9,Foreign Used,5149999.0,5M-10M
+Toyota Landcruiser Prado J120,Toyota,Landcruiser Prado J120,Automatic,3000.0,2005,19,Kenyan Used,1799999.0,1M-2M
+Mercedes Benz Glc 250,Mercedes Benz,Glc 250,Automatic,2000.0,2016,8,Foreign Used,6349999.0,5M-10M
+Subaru Forester 2.0 Na,Subaru,Forester 2.0 Na,Automatic,2000.0,2016,8,Foreign Used,3249999.0,3M-5M
+Volvo Xc60 D4 'Classic' /Sunroof,Volvo,Xc60 D4 'Classic' /Sunroof,Automatic,2000.0,2016,8,Foreign Used,3749999.0,3M-5M
+Range Rover Sport 3.0L Sdv6 / Pano Sunroof,Range Rover,Sport 3.0L Sdv6 / Pano Sunroof,Automatic,3000.0,2016,8,Foreign Used,9699999.0,5M-10M
+Toyota Probox,Toyota,Probox,Automatic,1500.0,2016,8,Foreign Used,1149999.0,1M-2M
+Citroën Ds4 1.6 Turbo,Citroën,Ds4 1.6 Turbo,Automatic,1600.0,2017,7,Foreign Used,2149999.0,2M-3M
+Audi A5,Audi,A5,Automatic,2000.0,2016,8,Foreign Used,3349999.0,3M-5M
+"Bmw 740I ""G11"" Pure Excellence",Bmw,"740I ""G11"" Pure Excellence",Automatic,3000.0,2017,7,Foreign Used,7799999.0,5M-10M
+Peugeot 2008 Gt-Line,Peugeot,2008 Gt-Line,Automatic,1200.0,2017,7,Foreign Used,1999999.0,1M-2M
+Audi A3,Audi,A3,Automatic,1400.0,2016,8,Foreign Used,2599999.0,2M-3M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2009,15,Kenyan Used,2899999.0,2M-3M
+Nissan Note E-Power,Nissan,Note E-Power,Automatic,1200.0,2017,7,Foreign Used,1149999.0,1M-2M
+Range Rover Vogue 3.0L Tdv6 Hse,Range Rover,Vogue 3.0L Tdv6 Hse,Automatic,3000.0,2013,11,Kenyan Used,8849999.0,5M-10M
+Mercedes Benz Ml350 / Panoramic Sunroof,Mercedes Benz,Ml350 / Panoramic Sunroof,Automatic,3000.0,2014,10,Kenyan Used,5649999.0,5M-10M
+Audi A5,Audi,A5,Automatic,2000.0,2016,8,Foreign Used,3599999.0,3M-5M
+Volkswagen Tiguan 1.4Tsi,Volkswagen,Tiguan 1.4Tsi,Automatic,1400.0,2016,8,Kenyan Used,2899999.0,2M-3M
+Mitsubishi Canter,Mitsubishi,Canter,Automatic,3000.0,2014,10,Kenyan Used,2149999.0,2M-3M
+Mazda Mpv,Mazda,Mpv,Automatic,2300.0,2013,11,Kenyan Used,1049999.0,1M-2M
+Jeep Grand Cherokee 3.6 Limited / Panoramic Sunroof,Jeep,Grand Cherokee 3.6 Limited / Panoramic Sunroof,Automatic,3600.0,2014,10,Kenyan Used,3849999.0,3M-5M
+Audi A1,Audi,A1,Automatic,1000.0,2015,9,Foreign Used,1749999.0,1M-2M
+Mercedes Benz Ml250,Mercedes Benz,Ml250,Automatic,2100.0,2014,10,Kenyan Used,4899999.0,3M-5M
+Toyota Belta,Toyota,Belta,Automatic,1300.0,2012,12,Kenyan Used,799999.0,500k-1M
+Mazda Atenza 2.5L,Mazda,Atenza 2.5L,Automatic,2500.0,2016,8,Foreign Used,2499999.0,2M-3M
+Ford Ranger 3.2L,Ford,Ranger 3.2L,Automatic,3200.0,2013,11,Kenyan Used,2899999.0,2M-3M
+Nissan Dayz,Nissan,Dayz,Automatic,660.0,2016,8,Foreign Used,869999.0,500k-1M
+Audi Q3 2.0L Quattro,Audi,Q3 2.0L Quattro,Automatic,2000.0,2016,8,Foreign Used,3699999.0,3M-5M
+Nissan Nv200,Nissan,Nv200,Automatic,1500.0,2016,8,Kenyan Used,1199999.0,1M-2M
+Toyota Harrier 'Elegance',Toyota,Harrier 'Elegance',Automatic,2000.0,2017,7,Foreign Used,3299999.0,3M-5M
+Volkswagen Golf Tsi 1.2L,Volkswagen,Golf Tsi 1.2L,Automatic,1200.0,2012,12,Kenyan Used,949999.0,500k-1M
+Honda Fit Shuttle Hybrid,Honda,Fit Shuttle Hybrid,Automatic,1500.0,2017,7,Foreign Used,1789999.0,1M-2M
+Renault Lutecia,Renault,Lutecia,Automatic,1200.0,2016,8,Foreign Used,1399999.0,1M-2M
+Subaru Legacy,Subaru,Legacy,Automatic,2500.0,2011,13,Kenyan Used,1349999.0,1M-2M
+Volvo S60 T3,Volvo,S60 T3,Automatic,1500.0,2017,7,Foreign Used,2449999.0,2M-3M
+Bmw X4 Xdrive 28I 'Blackout Edition' / Sunroof,Bmw,X4 Xdrive 28I 'Blackout Edition' / Sunroof,Automatic,2000.0,2017,7,Foreign Used,5349999.0,5M-10M
+Audi A5,Audi,A5,Automatic,2000.0,2017,7,Foreign Used,4599999.0,3M-5M
+Audi A7 2.0T Sportback Quattro,Audi,A7 2.0T Sportback Quattro,Automatic,2000.0,2017,7,Foreign Used,4749999.0,3M-5M
+Audi Q5 2.0T S-Line Quattro,Audi,Q5 2.0T S-Line Quattro,Automatic,2000.0,2017,7,Foreign Used,5199999.0,5M-10M
+"Bmw X4 ""F26"" Xdrive 28I M-Sport",Bmw,"X4 ""F26"" Xdrive 28I M-Sport",Automatic,2000.0,2017,7,Foreign Used,5199999.0,5M-10M
+Isuzu Trooper / Manual,Isuzu,Trooper / Manual,Manual,2800.0,1989,35,Kenyan Used,919999.0,500k-1M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1129999.0,1M-2M
+Bmw X3 Xdrive 20D M-Sport,Bmw,X3 Xdrive 20D M-Sport,Automatic,2000.0,2016,8,Foreign Used,3449999.0,3M-5M
+Audi Q5 2.0T Quattro S-Line 'Typ 80A',Audi,Q5 2.0T Quattro S-Line 'Typ 80A',Automatic,2000.0,2017,7,Foreign Used,5349999.0,5M-10M
+Volkswagen Golf Tsi 1.2L,Volkswagen,Golf Tsi 1.2L,Automatic,1200.0,2016,8,Kenyan Used,1649999.0,1M-2M
+Mazda Demio 1.5L,Mazda,Demio 1.5L,Automatic,1500.0,2016,8,Foreign Used,1329999.0,1M-2M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1029999.0,1M-2M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2016,8,Kenyan Used,2449999.0,2M-3M
+Toyota Fielder Hybrid,Toyota,Fielder Hybrid,Automatic,1500.0,2016,8,Foreign Used,1799999.0,1M-2M
+Mercedes Benz C180 Kompressor,Mercedes Benz,C180 Kompressor,Automatic,1600.0,2009,15,Kenyan Used,1399999.0,1M-2M
+Suzuki S Cross S×4,Suzuki,S Cross S×4,Automatic,1600.0,2018,6,Foreign Used,2399999.0,2M-3M
+Mercedes Benz C200 Cgi 'Avantgarde',Mercedes Benz,C200 Cgi 'Avantgarde',Automatic,1800.0,2010,14,Kenyan Used,1599999.0,1M-2M
+Toyota Landcruiser Prado Tx-L Gdj150 / 7 Seats / Sunroof,Toyota,Landcruiser Prado Tx-L Gdj150 / 7 Seats / Sunroof,Automatic,2800.0,2018,6,Foreign Used,8399999.0,5M-10M
+Mazda Cx-5 2.5L Awd,Mazda,Cx-5 2.5L Awd,Automatic,2500.0,2017,7,Foreign Used,3449999.0,3M-5M
+"Subaru Levorg 1.6L Turbo ""Vm"" Advanced Package",Subaru,"Levorg 1.6L Turbo ""Vm"" Advanced Package",Automatic,1600.0,2016,8,Foreign Used,2149999.0,2M-3M
+Mercedes Benz C200 / Panoramic Sunroof,Mercedes Benz,C200 / Panoramic Sunroof,Automatic,2000.0,2016,8,Kenyan Used,4549999.0,3M-5M
+Volkswagen Passat 1.4 Tsi,Volkswagen,Passat 1.4 Tsi,Automatic,1400.0,2011,13,Kenyan Used,1349999.0,1M-2M
+Toyota Noah,Toyota,Noah,Automatic,2000.0,2016,8,Foreign Used,2549999.0,2M-3M
+Volkswagen Golf Variant 1.4L,Volkswagen,Golf Variant 1.4L,Automatic,1400.0,2016,8,Foreign Used,2099999.0,2M-3M
+Toyota Harrier / Modellista Bodykit,Toyota,Harrier / Modellista Bodykit,Automatic,2000.0,2015,9,Kenyan Used,3199999.0,3M-5M
+Mazda Atenza 2.5L,Mazda,Atenza 2.5L,Automatic,2500.0,2016,8,Foreign Used,2249999.0,2M-3M
+Mazda Cx-5 2.2D Awd,Mazda,Cx-5 2.2D Awd,Automatic,2200.0,2017,7,Foreign Used,3649999.0,3M-5M
+Nissan Note,Nissan,Note,Automatic,1200.0,2014,10,Kenyan Used,859999.0,500k-1M
+Nissan Serena,Nissan,Serena,Automatic,2000.0,2016,8,Foreign Used,1679999.0,1M-2M
+Nissan Latio,Nissan,Latio,Automatic,1200.0,2015,9,Kenyan Used,999999.0,500k-1M
+Mazda Cx-3 1.5D,Mazda,Cx-3 1.5D,Automatic,1500.0,2016,8,Kenyan Used,1869999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2400.0,2007,17,Kenyan Used,1349999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2400.0,2009,15,Kenyan Used,1549999.0,1M-2M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2017,7,Foreign Used,3499999.0,3M-5M
+Audi Q5 2.0T Quattro S-Line,Audi,Q5 2.0T Quattro S-Line,Automatic,2000.0,2016,8,Foreign Used,4299999.0,3M-5M
+Suzuki Alto,Suzuki,Alto,Automatic,660.0,2015,9,Kenyan Used,529999.0,500k-1M
+"Bmw X1 Sdrive18I M- Sport ""F48"" / Panoramic Sunroof",Bmw,"X1 Sdrive18I M- Sport ""F48"" / Panoramic Sunroof",Automatic,1500.0,2016,8,Foreign Used,3549999.0,3M-5M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2010,14,Kenyan Used,619999.0,500k-1M
+Nissan Note Dig-S,Nissan,Note Dig-S,Automatic,1200.0,2013,11,Kenyan Used,765000.0,500k-1M
+Mazda Bongo,Mazda,Bongo,Automatic,1500.0,2010,14,Kenyan Used,564999.0,500k-1M
+Mercedes Benz Ml350,Mercedes Benz,Ml350,Automatic,3500.0,2007,17,Kenyan Used,1799999.0,1M-2M
+Volkswagen Golf Tsi 1.4L,Volkswagen,Golf Tsi 1.4L,Automatic,1400.0,2015,9,Kenyan Used,1649999.0,1M-2M
+Mazda Cx-5 2.2D/Sunroof,Mazda,Cx-5 2.2D/Sunroof,Automatic,2200.0,2016,8,Foreign Used,2799999.0,2M-3M
+Nissan Primera,Nissan,Primera,Manual,1600.0,2001,23,Kenyan Used,299999.0,0-500k
+Toyota Rumion 1.8S,Toyota,Rumion 1.8S,Automatic,1800.0,2010,14,Kenyan Used,919999.0,500k-1M
+Toyota Crown 3.5L V6 Hybrid,Toyota,Crown 3.5L V6 Hybrid,Automatic,3500.0,2012,12,Kenyan Used,1649999.0,1M-2M
+Ford Ranger 'Wildtrak' 3.2L,Ford,Ranger 'Wildtrak' 3.2L,Automatic,3200.0,2017,7,Foreign Used,5999999.0,5M-10M
+Range Rover Velar 2.0L D240,Range Rover,Velar 2.0L D240,Automatic,2000.0,2018,6,Foreign Used,11499999.0,Above 10
+Ford Ranger 'Wildtrak' 3.2L,Ford,Ranger 'Wildtrak' 3.2L,Automatic,3200.0,2015,9,Kenyan Used,3599999.0,3M-5M
+Subaru Legacy B4 2.5I Limited,Subaru,Legacy B4 2.5I Limited,Automatic,2500.0,2016,8,Foreign Used,2249999.0,2M-3M
+Subaru Legacy,Subaru,Legacy,Automatic,2500.0,2012,12,Kenyan Used,1249999.0,1M-2M
+Nissan Serena,Nissan,Serena,Automatic,2000.0,2014,10,Kenyan Used,1249999.0,1M-2M
+Mercedes Benz E220D /Sunroof,Mercedes Benz,E220D /Sunroof,Automatic,2100.0,2016,8,Foreign Used,5699999.0,5M-10M
+Subaru Forester 2.0 Na,Subaru,Forester 2.0 Na,Automatic,2000.0,2016,8,Foreign Used,2849999.0,2M-3M
+Land Rover Discovery Iv 'Landmark'/ 3-Zone Sunroof,Land Rover,Discovery Iv 'Landmark'/ 3-Zone Sunroof,Automatic,3000.0,2016,8,Foreign Used,7499999.0,5M-10M
+Nissan Datsun 2.7L,Nissan,Datsun 2.7L,Manual,2700.0,1994,30,Kenyan Used,699999.0,500k-1M
+Subaru Outback 2.5L/Sunroof,Subaru,Outback 2.5L/Sunroof,Automatic,2500.0,2010,14,Kenyan Used,1089999.0,1M-2M
+"Subaru Outback ""L.L. Bean Edition""",Subaru,"Outback ""L.L. Bean Edition""",Automatic,2500.0,2006,18,Kenyan Used,865000.0,500k-1M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Kenyan Used,2399999.0,2M-3M
+Toyota Axio 1.5L,Toyota,Axio 1.5L,Automatic,1500.0,2016,8,Foreign Used,1799999.0,1M-2M
+Bmw X3 M-Sport Xdrive20D  / Panoramic Sunroof,Bmw,X3 M-Sport Xdrive20D  / Panoramic Sunroof,Automatic,2000.0,2016,8,Foreign Used,4649999.0,3M-5M
+Audi Q5 2.0T Quattro /Sunroof,Audi,Q5 2.0T Quattro /Sunroof,Automatic,2000.0,2017,7,Foreign Used,4849999.0,3M-5M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2016,8,Foreign Used,2049999.0,2M-3M
+Audi Q3,Audi,Q3,Automatic,1400.0,2016,8,Foreign Used,3449999.0,3M-5M
+Toyota Auris,Toyota,Auris,Automatic,1200.0,2016,8,Foreign Used,1899999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2549999.0,2M-3M
+Mercedes Benz Glc 250 4 Matic Amg-Line,Mercedes Benz,Glc 250 4 Matic Amg-Line,Automatic,2000.0,2017,7,Foreign Used,4999999.0,3M-5M
+Nissan Dayz,Nissan,Dayz,Automatic,660.0,2016,8,Foreign Used,779999.0,500k-1M
+Mazda Demio 1.5L,Mazda,Demio 1.5L,Automatic,1500.0,2016,8,Foreign Used,1349999.0,1M-2M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2012,12,Kenyan Used,2749999.0,2M-3M
+Nissan March,Nissan,March,Automatic,1200.0,2012,12,Kenyan Used,369999.0,0-500k
+Toyota Harrier/Panoramic Sunroof,Toyota,Harrier/Panoramic Sunroof,Automatic,2000.0,2015,9,Foreign Used,3299999.0,3M-5M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1099999.0,1M-2M
+Volkswagen Golf Variant 1.2L,Volkswagen,Golf Variant 1.2L,Automatic,1200.0,2016,8,Foreign Used,1999999.0,1M-2M
+Audi Sq5 3.0T V6 Quattro/Panoramic Sunroof,Audi,Sq5 3.0T V6 Quattro/Panoramic Sunroof,Automatic,3000.0,2016,8,Kenyan Used,5199999.0,5M-10M
+Bmw X3 Xdrive 20D,Bmw,X3 Xdrive 20D,Automatic,2000.0,2016,8,Kenyan Used,4199999.0,3M-5M
+Range Rover Sport 3.0L Supercharged V6 / Sunroof,Range Rover,Sport 3.0L Supercharged V6 / Sunroof,Automatic,3000.0,2015,9,Kenyan Used,8499999.0,5M-10M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,1800.0,2012,12,Kenyan Used,2099999.0,2M-3M
+Audi A4 2.0L Avant,Audi,A4 2.0L Avant,Automatic,2000.0,2015,9,Kenyan Used,2349999.0,2M-3M
+Toyota Esquire / Hybrid,Toyota,Esquire / Hybrid,Automatic,1800.0,2016,8,Foreign Used,2649999.0,2M-3M
+Suzuki Alto,Suzuki,Alto,Automatic,660.0,2015,9,Kenyan Used,739999.0,500k-1M
+Subaru Outback / Manual Transmission,Subaru,Outback / Manual Transmission,Manual,2500.0,2008,16,Kenyan Used,870000.0,500k-1M
+Mitsubishi Outlander/ 7 Seater,Mitsubishi,Outlander/ 7 Seater,Automatic,2400.0,2016,8,Foreign Used,3449999.0,3M-5M
+Porsche Cayenne 3.6 V6 'Typ 92A',Porsche,Cayenne 3.6 V6 'Typ 92A',Automatic,3600.0,2016,8,Kenyan Used,6599999.0,5M-10M
+Honda Crv Awd,Honda,Crv Awd,Automatic,2400.0,2012,12,Kenyan Used,1849999.0,1M-2M
+Toyota Agya 1.0L,Toyota,Agya 1.0L,Automatic,1000.0,2019,5,Kenyan Used,1099999.0,1M-2M
+Subaru Forester 2.0 Na,Subaru,Forester 2.0 Na,Automatic,2000.0,2014,10,Kenyan Used,2599999.0,2M-3M
+Peugeot 308,Peugeot,308,Automatic,1200.0,2016,8,Foreign Used,2049999.0,2M-3M
+Toyota Landcruiser 'Vx' Uzj100 / 7 Seats / Sunroof,Toyota,Landcruiser 'Vx' Uzj100 / 7 Seats / Sunroof,Automatic,4700.0,2000,24,Kenyan Used,2349999.0,2M-3M
+Subaru Legacy 2.5L Na,Subaru,Legacy 2.5L Na,Automatic,2500.0,2012,12,Kenyan Used,1299999.0,1M-2M
+Nissan Skyline 200Gt-T,Nissan,Skyline 200Gt-T,Automatic,2000.0,2016,8,Foreign Used,2499999.0,2M-3M
+Toyota Passo,Toyota,Passo,Automatic,1000.0,2013,11,Kenyan Used,649999.0,500k-1M
+Volvo Xc90 T5 Awd / Panoramic Sunroof,Volvo,Xc90 T5 Awd / Panoramic Sunroof,Automatic,2000.0,2017,7,Foreign Used,7199999.0,5M-10M
+Toyota Crown Hybrid,Toyota,Crown Hybrid,Automatic,2500.0,2013,11,Kenyan Used,1499999.0,1M-2M
+Audi Q7 S-Line 3.0Tdi Quattro/Pano Sunroof/Air Suspension,Audi,Q7 S-Line 3.0Tdi Quattro/Pano Sunroof/Air Suspension,Automatic,3000.0,2007,17,Kenyan Used,1949999.0,1M-2M
+Toyota Quest 1.6L,Toyota,Quest 1.6L,Automatic,1600.0,2015,9,Kenyan Used,1149999.0,1M-2M
+Toyota Vitz 1.3L,Toyota,Vitz 1.3L,Automatic,1300.0,2011,13,Kenyan Used,629999.0,500k-1M
+Nissan Xtrail Hybrid / 7 Seats / Panoramic Sunroof,Nissan,Xtrail Hybrid / 7 Seats / Panoramic Sunroof,Automatic,2000.0,2016,8,Foreign Used,2999999.0,2M-3M
+Audi A3 2.0L Fsi,Audi,A3 2.0L Fsi,Automatic,2000.0,2006,18,Kenyan Used,649999.0,500k-1M
+Bmw M135I 3.0L 'N55B30'/Stage One Tune,Bmw,M135I 3.0L 'N55B30'/Stage One Tune,Automatic,3000.0,2015,9,Kenyan Used,4149999.0,3M-5M
+Volvo Xc60 D4/Sunroof,Volvo,Xc60 D4/Sunroof,Automatic,2000.0,2016,8,Foreign Used,4189999.0,3M-5M
+Range Rover Sport 3.0L Supercharged V6,Range Rover,Sport 3.0L Supercharged V6,Automatic,3000.0,2016,8,Foreign Used,9499999.0,5M-10M
+Toyota Caldina,Toyota,Caldina,Automatic,2000.0,2007,17,Kenyan Used,719999.0,500k-1M
+Mazda Demio 1.3L,Mazda,Demio 1.3L,Manual,1300.0,2010,14,Kenyan Used,565000.0,500k-1M
+Toyota Fortuner,Toyota,Fortuner,Manual,2800.0,2016,8,Kenyan Used,5949999.0,5M-10M
+"Toyota Landcruiser V8 ""Zx"" /Sunroof",Toyota,"Landcruiser V8 ""Zx"" /Sunroof",Automatic,4600.0,2010,14,Kenyan Used,4699999.0,3M-5M
+Mazda Cx-3 1.5D Awd,Mazda,Cx-3 1.5D Awd,Automatic,1500.0,2016,8,Kenyan Used,1729999.0,1M-2M
+Toyota Landcruiser Prado Tx Gdj150 / Sunroof,Toyota,Landcruiser Prado Tx Gdj150 / Sunroof,Automatic,2800.0,2017,7,Kenyan Used,7599999.0,5M-10M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Manual,2500.0,2018,6,Kenyan Used,3999999.0,3M-5M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2006,18,Kenyan Used,499999.0,0-500k
+Toyota Fielder Hybrid,Toyota,Fielder Hybrid,Automatic,1500.0,2016,8,Foreign Used,1529999.0,1M-2M
+Toyota Probox,Toyota,Probox,Automatic,1500.0,2015,9,Kenyan Used,989999.0,500k-1M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2004,20,Kenyan Used,849999.0,500k-1M
+Nissan Note Medalist,Nissan,Note Medalist,Automatic,1200.0,2013,11,Kenyan Used,859999.0,500k-1M
+Toyota Toyoace 3.0L,Toyota,Toyoace 3.0L,Manual,3000.0,2001,23,Kenyan Used,749999.0,500k-1M
+Volkswagen Golf Tsi 1.4L Variant,Volkswagen,Golf Tsi 1.4L Variant,Automatic,1400.0,2015,9,Kenyan Used,1779999.0,1M-2M
+Subaru Impreza G4,Subaru,Impreza G4,Automatic,2000.0,2015,9,Foreign Used,1999999.0,1M-2M
+Nissan Xtrail /Hybrid,Nissan,Xtrail /Hybrid,Automatic,2000.0,2016,8,Foreign Used,2589999.0,2M-3M
+Land Rover Discovery Iv 'Landmark'/ 3-Zone Sunroof,Land Rover,Discovery Iv 'Landmark'/ 3-Zone Sunroof,Automatic,3000.0,2016,8,Kenyan Used,7299999.0,5M-10M
+Mitsubishi Ek Wagon,Mitsubishi,Ek Wagon,Automatic,660.0,2015,9,Kenyan Used,819999.0,500k-1M
+Toyota Hiace 2.7L,Toyota,Hiace 2.7L,Automatic,2700.0,2010,14,Kenyan Used,1249999.0,1M-2M
+"Mercedes Benz C200 ""W205""",Mercedes Benz,"C200 ""W205""",Automatic,2000.0,2016,8,Foreign Used,3999999.0,3M-5M
+Mercedes Benz E300/Sunroof,Mercedes Benz,E300/Sunroof,Automatic,3000.0,2010,14,Kenyan Used,2249999.0,2M-3M
+Mitsubishi Galant Fortis Sportback,Mitsubishi,Galant Fortis Sportback,Automatic,2000.0,2014,10,Kenyan Used,1469999.0,1M-2M
+Bmw 235I/Stage Ii Tune,Bmw,235I/Stage Ii Tune,Automatic,3000.0,2014,10,Kenyan Used,3649999.0,3M-5M
+Suzuki Wagon R,Suzuki,Wagon R,Automatic,660.0,2016,8,Foreign Used,879999.0,500k-1M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2015,9,Kenyan Used,2049999.0,2M-3M
+"Mitsubishi Asx "" Also Rvr""",Mitsubishi,"Asx "" Also Rvr""",Automatic,2000.0,2018,6,Kenyan Used,1669999.0,1M-2M
+Bmw 525I,Bmw,525I,Automatic,2500.0,2005,19,Kenyan Used,1399999.0,1M-2M
+Mercedes Benz Gle 450H 4Matic,Mercedes Benz,Gle 450H 4Matic,Automatic,3000.0,2019,5,Foreign Used,14999999.0,Above 10
+Porsche Macan S,Porsche,Macan S,Automatic,3000.0,2017,7,Foreign Used,5899999.0,5M-10M
+Audi A4 2.0L S-Line,Audi,A4 2.0L S-Line,Automatic,2000.0,2016,8,Foreign Used,2749999.0,2M-3M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2012,12,Kenyan Used,729999.0,500k-1M
+Nissan Note Nismo S,Nissan,Note Nismo S,Manual,1600.0,2015,9,Foreign Used,1449999.0,1M-2M
+Toyota Vitz Rs 1.5L,Toyota,Vitz Rs 1.5L,Automatic,1500.0,2008,16,Kenyan Used,679999.0,500k-1M
+Mercedes Benz Glc 250 4 Matic,Mercedes Benz,Glc 250 4 Matic,Automatic,2000.0,2016,8,Foreign Used,5799999.0,5M-10M
+Toyota Landcruiser Prado Tx/Sunroof,Toyota,Landcruiser Prado Tx/Sunroof,Automatic,2700.0,2015,9,Kenyan Used,3949999.0,3M-5M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2012,12,Kenyan Used,1899999.0,1M-2M
+Subaru Levorg,Subaru,Levorg,Automatic,1600.0,2016,8,Kenyan Used,1899999.0,1M-2M
+Mercedes Benz C200/Sunroof,Mercedes Benz,C200/Sunroof,Automatic,2000.0,2016,8,Foreign Used,4599999.0,3M-5M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Manual,2500.0,2010,14,Kenyan Used,2099999.0,2M-3M
+Lexus Gs350,Lexus,Gs350,Automatic,3500.0,2010,14,Kenyan Used,1299999.0,1M-2M
+Faw Fighter,Faw,Fighter,Automatic,3200.0,2014,10,Kenyan Used,1549999.0,1M-2M
+Porsche Cayenne 3.6 V6,Porsche,Cayenne 3.6 V6,Automatic,3600.0,2012,12,Kenyan Used,3799999.0,3M-5M
+Toyota Porte,Toyota,Porte,Automatic,1300.0,2016,8,Foreign Used,1099999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2400.0,2007,17,Kenyan Used,1369999.0,1M-2M
+Volkswagen Touareg 3.6 V6,Volkswagen,Touareg 3.6 V6,Automatic,3600.0,2008,16,Kenyan Used,1919999.0,1M-2M
+Mazda Cx-5 2.2D Awd,Mazda,Cx-5 2.2D Awd,Automatic,2200.0,2015,9,Kenyan Used,1999999.0,1M-2M
+Toyota Allion 1.8L,Toyota,Allion 1.8L,Automatic,1800.0,2007,17,Kenyan Used,629999.0,500k-1M
+"Audi A6 2.0L Tfsi  ""C7.5""",Audi,"A6 2.0L Tfsi  ""C7.5""",Automatic,2000.0,2015,9,Kenyan Used,3249999.0,3M-5M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2015,9,Kenyan Used,1849999.0,1M-2M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2599999.0,2M-3M
+Subaru Impreza G4,Subaru,Impreza G4,Automatic,2000.0,2014,10,Kenyan Used,1449999.0,1M-2M
+Lexus Rx300,Lexus,Rx300,Automatic,3000.0,2004,20,Kenyan Used,919999.0,500k-1M
+Honda Fit Hybrid,Honda,Fit Hybrid,Automatic,1500.0,2016,8,Foreign Used,1489999.0,1M-2M
+Chevrolet Aveo,Chevrolet,Aveo,Automatic,1200.0,2002,22,Kenyan Used,489999.0,0-500k
+"Porsche Cayenne Gts ""Type 92A""",Porsche,"Cayenne Gts ""Type 92A""",Automatic,3600.0,2015,9,Foreign Used,8899999.0,5M-10M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2015,9,Kenyan Used,3199999.0,3M-5M
+Volkswagen Polo Gti,Volkswagen,Polo Gti,Automatic,1800.0,2016,8,Foreign Used,2549999.0,2M-3M
+Mazda Atenza 2.2D,Mazda,Atenza 2.2D,Automatic,2200.0,2016,8,Foreign Used,2449999.0,2M-3M
+Nissan Xtrail Hybrid,Nissan,Xtrail Hybrid,Automatic,2000.0,2016,8,Foreign Used,2599999.0,2M-3M
+Mitsubishi Pajero,Mitsubishi,Pajero,Automatic,3000.0,2009,15,Kenyan Used,1749999.0,1M-2M
+Toyota Sai Hybrid,Toyota,Sai Hybrid,Automatic,2400.0,2015,9,Kenyan Used,1149999.0,1M-2M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2016,8,Kenyan Used,1649999.0,1M-2M
+Nissan Teana,Nissan,Teana,Automatic,2300.0,2006,18,Kenyan Used,599999.0,500k-1M
+Volkswagen Jetta Gti,Volkswagen,Jetta Gti,Automatic,2000.0,2008,16,Kenyan Used,699999.0,500k-1M
+Toyota Esquire,Toyota,Esquire,Automatic,2000.0,2016,8,Foreign Used,2549999.0,2M-3M
+"Bmw 523I 2.0L N20B20 ""F10""",Bmw,"523I 2.0L N20B20 ""F10""",Automatic,2000.0,2011,13,Kenyan Used,1999999.0,1M-2M
+"Bmw 320I Touring 2.0L N46Nb20 ""E91""",Bmw,"320I Touring 2.0L N46Nb20 ""E91""",Automatic,2000.0,2010,14,Kenyan Used,1149999.0,1M-2M
+Mitsubishi Canter Fe 84,Mitsubishi,Canter Fe 84,Automatic,4200.0,2016,8,Kenyan Used,2499999.0,2M-3M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2013,11,Kenyan Used,1749999.0,1M-2M
+Alfa Romeo Giulietta Sportiva,Alfa,Romeo Giulietta Sportiva,Automatic,1400.0,2016,8,Foreign Used,1799999.0,1M-2M
+Subaru Legacy 2.0L,Subaru,Legacy 2.0L,Automatic,2000.0,2005,19,Kenyan Used,899999.0,500k-1M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2010,14,Kenyan Used,1349999.0,1M-2M
+Audi Q5 2.0T S-Line Quattro,Audi,Q5 2.0T S-Line Quattro,Automatic,2000.0,2014,10,Kenyan Used,3399999.0,3M-5M
+Toyota Avensis,Toyota,Avensis,Automatic,1800.0,2015,9,Foreign Used,1799999.0,1M-2M
+Subaru Outback 2.5L,Subaru,Outback 2.5L,Automatic,2500.0,2015,9,Foreign Used,2699999.0,2M-3M
+Daihatsu Mira,Daihatsu,Mira,Automatic,660.0,2016,8,Foreign Used,839999.0,500k-1M
+Subaru Wrx S4,Subaru,Wrx S4,Automatic,2000.0,2015,9,Kenyan Used,2199999.0,2M-3M
+Toyota Allion 1.8L,Toyota,Allion 1.8L,Automatic,1800.0,2013,11,Kenyan Used,1599999.0,1M-2M
+"Renault Lutecia Rs ""Iv"" Trophy",Renault,"Lutecia Rs ""Iv"" Trophy",Automatic,1600.0,2016,8,Foreign Used,1699999.0,1M-2M
+Isuzu Dmax D Cab 2.5D,Isuzu,Dmax D Cab 2.5D,Automatic,2500.0,2020,4,Kenyan Used,4249999.0,3M-5M
+Toyota Landcruiser Prado Tx,Toyota,Landcruiser Prado Tx,Automatic,2700.0,2019,5,Kenyan Used,6299999.0,5M-10M
+"Toyota Hiace ""1Kd"" 3.0L",Toyota,"Hiace ""1Kd"" 3.0L",Automatic,3000.0,2010,14,Kenyan Used,1599999.0,1M-2M
+"Audi A4 Allroad ""B8""",Audi,"A4 Allroad ""B8""",Automatic,2000.0,2015,9,Kenyan Used,3449999.0,3M-5M
+Volkswagen Sharan Typ 7N,Volkswagen,Sharan Typ 7N,Automatic,1400.0,2015,9,Kenyan Used,1799999.0,1M-2M
+Subaru Outback 2.5L/Sunroof,Subaru,Outback 2.5L/Sunroof,Automatic,2500.0,2016,8,Foreign Used,3399999.0,3M-5M
+Nissan Sunny Truck B120,Nissan,Sunny Truck B120,Manual,1500.0,1995,29,Kenyan Used,219999.0,0-500k
+"Toyota Landcruiser Prado J120 ""1Kd""/Sunroof",Toyota,"Landcruiser Prado J120 ""1Kd""/Sunroof",Automatic,3000.0,2007,17,Kenyan Used,1999999.0,1M-2M
+Mazda Cx-5 2.5L,Mazda,Cx-5 2.5L,Automatic,2500.0,2016,8,Foreign Used,3249999.0,3M-5M
+Mitsubishi Galant Fortis,Mitsubishi,Galant Fortis,Automatic,2000.0,2008,16,Kenyan Used,999999.0,500k-1M
+Nissan Juke,Nissan,Juke,Automatic,1500.0,2015,9,Kenyan Used,1349999.0,1M-2M
+Toyota Hiace,Toyota,Hiace,Automatic,2700.0,2014,10,Kenyan Used,2399999.0,2M-3M
+Toyota Isis,Toyota,Isis,Automatic,1800.0,2012,12,Kenyan Used,879999.0,500k-1M
+Volkswagen Touareg 3.6 Fsi,Volkswagen,Touareg 3.6 Fsi,Automatic,3600.0,2012,12,Kenyan Used,2749999.0,2M-3M
+Nissan Sunny B15,Nissan,Sunny B15,Automatic,1500.0,2004,20,Kenyan Used,349999.0,0-500k
+Mazda Cx-5 2.2D Awd,Mazda,Cx-5 2.2D Awd,Automatic,2200.0,2014,10,Kenyan Used,2399999.0,2M-3M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2400.0,2010,14,Kenyan Used,1549999.0,1M-2M
+Peugeot Boxer Van,Peugeot,Boxer Van,Manual,2200.0,2015,9,Kenyan Used,2499999.0,2M-3M
+Hino Dutro 4.0L/Refrigerated,Hino,Dutro 4.0L/Refrigerated,Manual,4000.0,2014,10,Kenyan Used,2749999.0,2M-3M
+Range Rover Sport 3.0 Sdv6 Hse,Range Rover,Sport 3.0 Sdv6 Hse,Automatic,3000.0,2017,7,Foreign Used,8999999.0,5M-10M
+Nissan Juke,Nissan,Juke,Automatic,1500.0,2016,8,Foreign Used,1649999.0,1M-2M
+Subaru Forester 2.0 Na,Subaru,Forester 2.0 Na,Automatic,2000.0,2016,8,Foreign Used,3299999.0,3M-5M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Kenyan Used,1149999.0,1M-2M
+"Audi A6 2.0L Tfsi Quattro ""C7.5""",Audi,"A6 2.0L Tfsi Quattro ""C7.5""",Automatic,2000.0,2016,8,Foreign Used,3749999.0,3M-5M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2016,8,Foreign Used,3299999.0,3M-5M
+Toyota Ractis,Toyota,Ractis,Automatic,1500.0,2008,16,Kenyan Used,849999.0,500k-1M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2014,10,Kenyan Used,2899999.0,2M-3M
+Subaru Legacy,Subaru,Legacy,Automatic,2500.0,2009,15,Kenyan Used,1169999.0,1M-2M
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2014,10,Kenyan Used,3099999.0,3M-5M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2499999.0,2M-3M
+Toyota Allion 1.8L,Toyota,Allion 1.8L,Automatic,1800.0,2007,17,Kenyan Used,749999.0,500k-1M
+Daihatsu Mira,Daihatsu,Mira,Automatic,660.0,2016,8,Foreign Used,890000.0,500k-1M
+"Volvo Xc60 T5 ""Inscription"" Awd",Volvo,"Xc60 T5 ""Inscription"" Awd",Automatic,2000.0,2018,6,Foreign Used,5649999.0,5M-10M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Automatic,3000.0,2008,16,Kenyan Used,2049999.0,2M-3M
+Ford Ranger 3.2L(Raptor Kitted),Ford,Ranger 3.2L(Raptor Kitted),Automatic,3200.0,2019,5,Foreign Used,7799999.0,5M-10M
+Land Rover Defender 110,Land Rover,Defender 110,Manual,2500.0,2010,14,Kenyan Used,4199999.0,3M-5M
+"Audi Q5 2.0T Quattro ""Typ 80A""",Audi,"Q5 2.0T Quattro ""Typ 80A""",Automatic,2000.0,2017,7,Foreign Used,5349999.0,5M-10M
+Toyota Succeed,Toyota,Succeed,Automatic,1500.0,2016,8,Foreign Used,1349999.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2016,8,Foreign Used,1349999.0,1M-2M
+Audi A6 2.0L Tfsi,Audi,A6 2.0L Tfsi,Automatic,2000.0,2012,12,Kenyan Used,2049999.0,2M-3M
+Peugeot 2008,Peugeot,2008,Automatic,1200.0,2017,7,Foreign Used,1879999.0,1M-2M
+Subaru Impreza Awd,Subaru,Impreza Awd,Automatic,1600.0,2016,8,Kenyan Used,1779999.0,1M-2M
+Peugeot 308,Peugeot,308,Automatic,1200.0,2016,8,Foreign Used,1849999.0,1M-2M
+Honda Fit Hybrid,Honda,Fit Hybrid,Automatic,1500.0,2016,8,Foreign Used,1569999.0,1M-2M
+Mitsubishi Fuso F1,Mitsubishi,Fuso F1,Automatic,4000.0,2018,6,Kenyan Used,3899999.0,3M-5M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2017,7,Foreign Used,1299999.0,1M-2M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Foreign Used,4399999.0,3M-5M
+Audi Q7 3.0Tdi,Audi,Q7 3.0Tdi,Automatic,3000.0,2007,17,Kenyan Used,1799999.0,1M-2M
+Isuzu Nqr 5.0L,Isuzu,Nqr 5.0L,Manual,5000.0,2020,4,Kenyan Used,3849999.0,3M-5M
+Suzuki Solio,Suzuki,Solio,Automatic,1242.0,2011,13,Kenyan Used,619999.0,500k-1M
+Volkswagen Passat Tsi,Volkswagen,Passat Tsi,Automatic,2000.0,2016,8,Foreign Used,2499999.0,2M-3M
+"Toyota Fielder ""S""",Toyota,"Fielder ""S""",Automatic,1800.0,2016,8,Foreign Used,2149999.0,2M-3M
+Mitsubishi Galant Fortis Sportback  2.0 Ralliart,Mitsubishi,Galant Fortis Sportback  2.0 Ralliart,Automatic,2000.0,2014,10,Kenyan Used,1449999.0,1M-2M
+Mercedes Benz Glc 250 4 Matic,Mercedes Benz,Glc 250 4 Matic,Automatic,2000.0,2016,8,Foreign Used,5999999.0,5M-10M
+"Audi Q5 2.0T S-Line Quattro ""Typ 8R""",Audi,"Q5 2.0T S-Line Quattro ""Typ 8R""",Automatic,2000.0,2016,8,Foreign Used,4499999.0,3M-5M
+Audi A5 2.0T Quattro S-Line,Audi,A5 2.0T Quattro S-Line,Automatic,2000.0,2016,8,Foreign Used,3649999.0,3M-5M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2015,9,Kenyan Used,1050000.0,1M-2M
+Volvo Xc60 D4/Sunroof,Volvo,Xc60 D4/Sunroof,Automatic,2000.0,2016,8,Foreign Used,3849999.0,3M-5M
+Toyota Hiace 2.7L,Toyota,Hiace 2.7L,Automatic,2700.0,2012,12,Kenyan Used,1479999.0,1M-2M
+Volvo S60 T3,Volvo,S60 T3,Automatic,1600.0,2017,7,Foreign Used,2479999.0,2M-3M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2010,14,Kenyan Used,1629999.0,1M-2M
+Nissan Latio,Nissan,Latio,Automatic,1500.0,2014,10,Kenyan Used,869000.0,500k-1M
+Land Rover Discovery Iv/ Sunroof,Land Rover,Discovery Iv/ Sunroof,Automatic,3000.0,2016,8,Foreign Used,7199999.0,5M-10M
+"Toyota Landcruiser ""Zx""",Toyota,"Landcruiser ""Zx""",Automatic,4600.0,2011,13,Kenyan Used,5849999.0,5M-10M
+Audi Q3 2.0L Quattro,Audi,Q3 2.0L Quattro,Automatic,2000.0,2016,8,Foreign Used,3799999.0,3M-5M
+Toyota Mark X G'S,Toyota,Mark X G'S,Automatic,2500.0,2016,8,Foreign Used,3299999.0,3M-5M
+Mazda Verisa,Mazda,Verisa,Automatic,1500.0,2008,16,Kenyan Used,665000.0,500k-1M
+Audi A6 2.0L Tfsi,Audi,A6 2.0L Tfsi,Automatic,2000.0,2012,12,Kenyan Used,2249999.0,2M-3M
+Mercedes Benz Glc 250 4 Matic /Sunroof,Mercedes Benz,Glc 250 4 Matic /Sunroof,Automatic,2000.0,2016,8,Foreign Used,5999999.0,5M-10M
+Subaru Wrx S4,Subaru,Wrx S4,Automatic,2000.0,2014,10,Kenyan Used,1949999.0,1M-2M
+Audi A4 2.0L,Audi,A4 2.0L,Automatic,2000.0,2013,11,Kenyan Used,2249999.0,2M-3M
+Mazda Atenza 2.2D,Mazda,Atenza 2.2D,Automatic,2200.0,2016,8,Foreign Used,2549999.0,2M-3M
+Subaru Outback 'Eyesight Package 2.5',Subaru,Outback 'Eyesight Package 2.5',Automatic,2500.0,2016,8,Foreign Used,3349999.0,3M-5M
+Volvo V60 T3,Volvo,V60 T3,Automatic,1600.0,2018,6,Foreign Used,2499999.0,2M-3M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2016,8,Foreign Used,2849999.0,2M-3M
+Mazda Axela 1.5L,Mazda,Axela 1.5L,Automatic,1500.0,2016,8,Foreign Used,1949999.0,1M-2M
+Nissan Dayz,Nissan,Dayz,Automatic,660.0,2016,8,Foreign Used,819999.0,500k-1M
+"Toyota Landcruiser Vx 4.5L ""V8"" At",Toyota,"Landcruiser Vx 4.5L ""V8"" At",Automatic,4500.0,2008,16,Kenyan Used,8199999.0,5M-10M
+"Toyota Landcruiser Prado J120 ""1Kd""",Toyota,"Landcruiser Prado J120 ""1Kd""",Automatic,3000.0,2005,19,Kenyan Used,2349999.0,2M-3M
+Lexus Rx300,Lexus,Rx300,Automatic,3000.0,2003,21,Kenyan Used,950000.0,500k-1M
+Mazda Cx-5 2.2D,Mazda,Cx-5 2.2D,Automatic,2200.0,2014,10,Kenyan Used,1980000.0,1M-2M
+"Audi Q5 2.0T Quattro ""Typ 8R""",Audi,"Q5 2.0T Quattro ""Typ 8R""",Automatic,2000.0,2016,8,Foreign Used,4499999.0,3M-5M
+Peugeot 3008 Gt-Line,Peugeot,3008 Gt-Line,Automatic,1600.0,2017,7,Foreign Used,3849999.0,3M-5M
+Audi Q5 2.0T S-Line Quattro,Audi,Q5 2.0T S-Line Quattro,Automatic,2000.0,2016,8,Foreign Used,4499999.0,3M-5M
+Mercedes Benz C180,Mercedes Benz,C180,Automatic,1600.0,2017,7,Kenyan Used,3699999.0,3M-5M
+Nissan March,Nissan,March,Automatic,1200.0,2016,8,Foreign Used,965000.0,500k-1M
+Mazda 6/Manual T/ European Spec,Mazda,6/Manual T/ European Spec,Manual,1800.0,2013,11,Kenyan Used,1149999.0,1M-2M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1190000.0,1M-2M
+"Bmw 535I ""F10""",Bmw,"535I ""F10""",Automatic,3000.0,2011,13,Kenyan Used,1949999.0,1M-2M
+Nissan March,Nissan,March,Automatic,1200.0,2015,9,Foreign Used,865000.0,500k-1M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2016,8,Foreign Used,1639999.0,1M-2M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2016,8,Foreign Used,1259999.0,1M-2M
+Toyota Premio,Toyota,Premio,Automatic,1800.0,2016,8,Foreign Used,2349999.0,2M-3M
+Toyota Succeed,Toyota,Succeed,Automatic,1500.0,2016,8,Foreign Used,1269999.0,1M-2M
+Toyota Harrier/Panoramic Sunroof,Toyota,Harrier/Panoramic Sunroof,Automatic,2000.0,2016,8,Foreign Used,3749999.0,3M-5M
+Subaru Forester 2.0 Na,Subaru,Forester 2.0 Na,Automatic,2000.0,2011,13,Kenyan Used,1529999.0,1M-2M
+Porsche Cayenne Platinum Edition,Porsche,Cayenne Platinum Edition,Automatic,3600.0,2014,10,Kenyan Used,4149999.0,3M-5M
+Toyota Fielder,Toyota,Fielder,Automatic,1500.0,2015,9,Kenyan Used,1335000.0,1M-2M
+Lexus Is300H,Lexus,Is300H,Automatic,2500.0,2017,7,Foreign Used,3599999.0,3M-5M
+Subaru Impreza Wrx Sti/Stage One Tune,Subaru,Impreza Wrx Sti/Stage One Tune,Automatic,2000.0,2010,14,Kenyan Used,1749999.0,1M-2M
+Audi Sq5/Panoramic Sunroof,Audi,Sq5/Panoramic Sunroof,Automatic,3000.0,2017,7,Foreign Used,5599999.0,5M-10M
+Mercedes Benz Gle 350D Coupe,Mercedes Benz,Gle 350D Coupe,Automatic,3000.0,2017,7,Foreign Used,10799999.0,Above 10
+Mercedes Benz E250,Mercedes Benz,E250,Automatic,2000.0,2014,10,Kenyan Used,3299999.0,3M-5M
+Lexus Rx450H,Lexus,Rx450H,Automatic,3500.0,2012,12,Kenyan Used,4499999.0,3M-5M
+Daihatsu Move,Daihatsu,Move,Automatic,650.0,2016,8,Foreign Used,839999.0,500k-1M
+Honda Fit,Honda,Fit,Automatic,1300.0,2015,9,Kenyan Used,1449999.0,1M-2M
+Subaru Outback Eyesight Package 2.5,Subaru,Outback Eyesight Package 2.5,Automatic,2500.0,2016,8,Foreign Used,2999999.0,2M-3M
+Ford Ranger,Ford,Ranger,Manual,2500.0,2011,13,Kenyan Used,1199999.0,1M-2M
+Passo Moda,Passo,Moda,Automatic,1000.0,2016,8,Foreign Used,1279999.0,1M-2M
+Honda Fit Shuttle Hybrid,Honda,Fit Shuttle Hybrid,Automatic,1500.0,2016,8,Foreign Used,1549999.0,1M-2M
+Toyota Sienta,Toyota,Sienta,Automatic,1500.0,2016,8,Foreign Used,1499999.0,1M-2M
+Honda Vezel Hybrid,Honda,Vezel Hybrid,Automatic,1500.0,2016,8,Foreign Used,2599999.0,2M-3M
+"Jeep Grand Cherokee ""Laredo""",Jeep,"Grand Cherokee ""Laredo""",Automatic,3600.0,2016,8,Foreign Used,5549999.0,5M-10M
+Mazda Atenza 2.2D,Mazda,Atenza 2.2D,Automatic,2200.0,2016,8,Foreign Used,2199999.0,2M-3M
+Mazda Atenza 2.2D,Mazda,Atenza 2.2D,Automatic,2200.0,2016,8,Foreign Used,2099999.0,2M-3M
+"Toyota Auris ""Turbo""",Toyota,"Auris ""Turbo""",Automatic,1200.0,2016,8,Foreign Used,1899999.0,1M-2M
+Toyota Sienta,Toyota,Sienta,Automatic,1500.0,2016,8,Kenyan Used,1250000.0,1M-2M
+Bmw X3 Xdrive20D,Bmw,X3 Xdrive20D,Automatic,2000.0,2016,8,Foreign Used,4099999.0,3M-5M
+Suzuki Swift,Suzuki,Swift,Automatic,1200.0,2016,8,Foreign Used,1350000.0,1M-2M
+Mazda Demio 1.5L,Mazda,Demio 1.5L,Automatic,1500.0,2016,8,Foreign Used,1290000.0,1M-2M
+Nissan Skyline 200Gt,Nissan,Skyline 200Gt,Automatic,2000.0,2015,9,Kenyan Used,1999999.0,1M-2M
+"Toyota Landcruiser V8 ""Zx""",Toyota,"Landcruiser V8 ""Zx""",Automatic,4600.0,2011,13,Kenyan Used,6449999.0,5M-10M
+Toyota Noah,Toyota,Noah,Automatic,2000.0,2016,8,Foreign Used,2399999.0,2M-3M
+Mercedes Benz Gla 250 4 Matic,Mercedes Benz,Gla 250 4 Matic,Automatic,2000.0,2016,8,Foreign Used,3699999.0,3M-5M
+Toyota Passo,Toyota,Passo,Automatic,1200.0,2016,8,Foreign Used,1149999.0,1M-2M
+Volkswagen Golf Alltrack,Volkswagen,Golf Alltrack,Automatic,1800.0,2016,8,Kenyan Used,2249999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2017,7,Foreign Used,3849999.0,3M-5M
+Mercedes Benz C250,Mercedes Benz,C250,Automatic,2000.0,2016,8,Foreign Used,4599999.0,3M-5M
+Toyota Voxy,Toyota,Voxy,Automatic,2000.0,2016,8,Foreign Used,2499999.0,2M-3M
+Land Rover Defender 110,Land Rover,Defender 110,Automatic,2500.0,2010,14,Kenyan Used,4299999.0,3M-5M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Automatic,2400.0,2018,6,Foreign Used,6199999.0,5M-10M
+Mazda Bongo,Mazda,Bongo,Automatic,1500.0,2013,11,Kenyan Used,829999.0,500k-1M
+Toyota Harrier/Panoramic Sunroof,Toyota,Harrier/Panoramic Sunroof,Automatic,2000.0,2017,7,Foreign Used,3949999.0,3M-5M
+Daihatsu Move,Daihatsu,Move,Automatic,660.0,2016,8,Foreign Used,859999.0,500k-1M
+Toyota Allion 2.0L,Toyota,Allion 2.0L,Automatic,2000.0,2016,8,Foreign Used,2449999.0,2M-3M
+Audi A3,Audi,A3,Automatic,1400.0,2016,8,Foreign Used,2399999.0,2M-3M
+Subaru Forester 2.0 Na,Subaru,Forester 2.0 Na,Automatic,2000.0,2000,24,Kenyan Used,629999.0,500k-1M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2017,7,Foreign Used,3999999.0,3M-5M
+Suzuki Ignis Hybrid,Suzuki,Ignis Hybrid,Automatic,1200.0,2016,8,Foreign Used,1349999.0,1M-2M
+Hyundai Santa Fe,Hyundai,Santa Fe,Automatic,2400.0,2014,10,Kenyan Used,2849999.0,2M-3M
+Subaru Levorg,Subaru,Levorg,Automatic,2000.0,2016,8,Foreign Used,2499999.0,2M-3M
+Volkswagen Golf Tsi 1.4L,Volkswagen,Golf Tsi 1.4L,Automatic,1400.0,2016,8,Foreign Used,2169999.0,2M-3M
+Mercedes Benz Glc 250 4 Matic /Sunroof,Mercedes Benz,Glc 250 4 Matic /Sunroof,Automatic,2000.0,2016,8,Foreign Used,6199999.0,5M-10M
+Nissan Note,Nissan,Note,Automatic,1200.0,2017,7,Kenyan Used,1199999.0,1M-2M
+Subaru Forester Xt/Sunroof,Subaru,Forester Xt/Sunroof,Automatic,2000.0,2016,8,Kenyan Used,3499999.0,3M-5M
+Toyota Corolla Axio,Toyota,Corolla Axio,Automatic,1500.0,2016,8,Foreign Used,1729999.0,1M-2M
+Mazda Atenza 2.2D,Mazda,Atenza 2.2D,Automatic,2200.0,2016,8,Foreign Used,2349999.0,2M-3M
+Nissan Teana,Nissan,Teana,Automatic,2000.0,2012,12,Kenyan Used,1349999.0,1M-2M
+Toyota Passo,Toyota,Passo,Automatic,1200.0,2015,9,Kenyan Used,890000.0,500k-1M
+Volkswagen Golf Tsi,Volkswagen,Golf Tsi,Automatic,1400.0,2016,8,Foreign Used,2049999.0,2M-3M
+Toyota Hilux D Cab,Toyota,Hilux D Cab,Automatic,2400.0,2018,6,Foreign Used,6299999.0,5M-10M
+Subaru Legacy B4,Subaru,Legacy B4,Automatic,2500.0,2016,8,Foreign Used,2599999.0,2M-3M
+Toyota Porte,Toyota,Porte,Automatic,1500.0,2011,13,Kenyan Used,740000.0,500k-1M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2017,7,Foreign Used,2599999.0,2M-3M
+Toyota Vanguard,Toyota,Vanguard,Automatic,2400.0,2012,12,Kenyan Used,1799999.0,1M-2M
+Jeep Grand Cherokee Diesel,Jeep,Grand Cherokee Diesel,Automatic,3000.0,2016,8,Kenyan Used,4999999.0,3M-5M
+Subaru Exiga Crossover,Subaru,Exiga Crossover,Automatic,2500.0,2016,8,Kenyan Used,2250000.0,2M-3M
+Mazda Cx-5,Mazda,Cx-5,Automatic,2200.0,2017,7,Foreign Used,3399999.0,3M-5M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2016,8,Kenyan Used,1999999.0,1M-2M
+Audi Q5 S-Line,Audi,Q5 S-Line,Automatic,2000.0,2016,8,Foreign Used,4299999.0,3M-5M
+Toyota Isis,Toyota,Isis,Automatic,1800.0,2016,8,Foreign Used,1750000.0,1M-2M
+Honda Fit Shuttle Hybrid,Honda,Fit Shuttle Hybrid,Automatic,1500.0,2016,8,Foreign Used,1699999.0,1M-2M
+"Toyota Landcruiser ""Zx""",Toyota,"Landcruiser ""Zx""",Automatic,4600.0,2016,8,Kenyan Used,11199999.0,Above 10
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1170000.0,1M-2M
+Peugeot 2008,Peugeot,2008,Automatic,1200.0,2016,8,Foreign Used,1870000.0,1M-2M
+Nissan Elgrand,Nissan,Elgrand,Automatic,2500.0,2012,12,Kenyan Used,1349999.0,1M-2M
+Mazda Cx-5,Mazda,Cx-5,Automatic,2200.0,2017,7,Foreign Used,3649999.0,3M-5M
+Subaru Xv,Subaru,Xv,Automatic,2000.0,2016,8,Foreign Used,2399999.0,2M-3M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2016,8,Foreign Used,2100000.0,2M-3M
+Bmw 318I,Bmw,318I,Automatic,2000.0,2004,20,Kenyan Used,749999.0,500k-1M
+Mazda Atenza,Mazda,Atenza,Automatic,2200.0,2016,8,Foreign Used,2199999.0,2M-3M
+"Toyota Landcruiser ""Zx""",Toyota,"Landcruiser ""Zx""",Automatic,4600.0,2017,7,Foreign Used,11999999.0,Above 10
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2016,8,Foreign Used,1980000.0,1M-2M
+Suzuki Jimny Land Adventure,Suzuki,Jimny Land Adventure,Automatic,660.0,2016,8,Foreign Used,1950000.0,1M-2M
+Mazda Cx-5,Mazda,Cx-5,Automatic,2200.0,2017,7,Foreign Used,3499999.0,3M-5M
+Mazda Cx-5,Mazda,Cx-5,Automatic,2000.0,2017,7,Foreign Used,3550000.0,3M-5M
+Audi A5 S Line,Audi,A5 S Line,Automatic,2000.0,2015,9,Kenyan Used,2999999.0,2M-3M
+Mercedes Benz Glc 250 4Matic,Mercedes Benz,Glc 250 4Matic,Automatic,2000.0,2016,8,Foreign Used,5999999.0,5M-10M
+Audi Q5 S Line,Audi,Q5 S Line,Automatic,2000.0,2016,8,Foreign Used,4549999.0,3M-5M
+Volkswagen Golf Variant R-Line,Volkswagen,Golf Variant R-Line,Automatic,1400.0,2016,8,Foreign Used,2249999.0,2M-3M
+Bmw X4 Xdrive 20D,Bmw,X4 Xdrive 20D,Automatic,2000.0,2015,9,Kenyan Used,2999999.0,2M-3M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2400.0,2016,8,Foreign Used,3250000.0,3M-5M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Foreign Used,4499999.0,3M-5M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Foreign Used,4150000.0,3M-5M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2014,10,Kenyan Used,2450000.0,2M-3M
+Bmw 218I,Bmw,218I,Automatic,1500.0,2016,8,Foreign Used,1950000.0,1M-2M
+Bmw X5 X-Drive 35I M Sport,Bmw,X5 X-Drive 35I M Sport,Automatic,3000.0,2015,9,Kenyan Used,6299999.0,5M-10M
+Toyota Majesta,Toyota,Majesta,Automatic,4300.0,2005,19,Kenyan Used,999999.0,500k-1M
+Volvo V40 T3,Volvo,V40 T3,Automatic,1600.0,2016,8,Foreign Used,2049999.0,2M-3M
+Audi Q5 Competition Plus,Audi,Q5 Competition Plus,Automatic,2000.0,2016,8,Foreign Used,4499999.0,3M-5M
+Bmw X3 20D,Bmw,X3 20D,Automatic,2000.0,2016,8,Foreign Used,4250000.0,3M-5M
+Mercedes Benz Cla 180,Mercedes Benz,Cla 180,Automatic,1600.0,2015,9,Kenyan Used,3499999.0,3M-5M
+Peugeot 308,Peugeot,308,Automatic,1200.0,2016,8,Foreign Used,1649999.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Foreign Used,4449999.0,3M-5M
+Mazda Cx-5,Mazda,Cx-5,Automatic,2000.0,2016,8,Foreign Used,3100000.0,3M-5M
+Nissan Ad Van,Nissan,Ad Van,Automatic,1500.0,2015,9,Foreign Used,880000.0,500k-1M
+Audi A4,Audi,A4,Automatic,2000.0,2015,9,Kenyan Used,2349999.0,2M-3M
+Jaguar Xj,Jaguar,Xj,Automatic,2000.0,2014,10,Foreign Used,4499999.0,3M-5M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2017,7,Foreign Used,3850000.0,3M-5M
+Toyota Passo,Toyota,Passo,Automatic,1200.0,2016,8,Foreign Used,1200000.0,1M-2M
+Subaru Forester,Subaru,Forester,Automatic,2000.0,2016,8,Foreign Used,3250000.0,3M-5M
+Bmw X6 / Sunroof,Bmw,X6 / Sunroof,Automatic,3000.0,2009,15,Kenyan Used,2499999.0,2M-3M
+Toyota Passo,Toyota,Passo,Automatic,1000.0,2017,7,Foreign Used,1149999.0,1M-2M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Foreign Used,4449999.0,3M-5M
+Toyota Corolla,Toyota,Corolla,Automatic,1200.0,2018,6,Foreign Used,2749999.0,2M-3M
+Audi Q5,Audi,Q5,Automatic,2000.0,2015,9,Kenyan Used,3350000.0,3M-5M
+Mercedes Benz B180,Mercedes Benz,B180,Automatic,1600.0,2016,8,Foreign Used,2249999.0,2M-3M
+Bmw 320I Gt,Bmw,320I Gt,Automatic,2000.0,2016,8,Foreign Used,3499999.0,3M-5M
+Toyota Porte,Toyota,Porte,Automatic,1500.0,2016,8,Foreign Used,1100000.0,1M-2M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Foreign Used,4599999.0,3M-5M
+Volkswagen Tiquan R-Line,Volkswagen,Tiquan R-Line,Automatic,1400.0,2017,7,Foreign Used,4499999.0,3M-5M
+Bmw X3 20D M-Sport,Bmw,X3 20D M-Sport,Automatic,2000.0,2016,8,Foreign Used,4449999.0,3M-5M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2020,4,Foreign Used,7499999.0,5M-10M
+Volkswagen Golf R Variant,Volkswagen,Golf R Variant,Automatic,2000.0,2015,9,Foreign Used,3500000.0,3M-5M
+Volkswagen Passat,Volkswagen,Passat,Automatic,2000.0,2016,8,Foreign Used,3450000.0,3M-5M
+Audi Q7,Audi,Q7,Automatic,3000.0,2007,17,Kenyan Used,2599999.0,2M-3M
+Honda Shuttle,Honda,Shuttle,Automatic,1500.0,2016,8,Foreign Used,1700000.0,1M-2M
+Volvo V40 T3,Volvo,V40 T3,Automatic,1600.0,2016,8,Foreign Used,2200000.0,2M-3M
+Toyota Hiace,Toyota,Hiace,Automatic,3000.0,2010,14,Kenyan Used,1250000.0,1M-2M
+Mercedes Benz C200,Mercedes Benz,C200,Automatic,2000.0,2016,8,Foreign Used,3899999.0,3M-5M
+Volkswagen Golf Alltrack,Volkswagen,Golf Alltrack,Automatic,1800.0,2016,8,Kenyan Used,2350000.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2017,7,Foreign Used,1350000.0,1M-2M
+Audi Q5,Audi,Q5,Automatic,2000.0,2016,8,Kenyan Used,4400000.0,3M-5M
+Nissan Juke,Nissan,Juke,Automatic,1500.0,2016,8,Foreign Used,1850000.0,1M-2M
+Audi A5 Quattro,Audi,A5 Quattro,Automatic,2000.0,2016,8,Foreign Used,3599999.0,3M-5M
+Nissan Note Medalist,Nissan,Note Medalist,Automatic,1200.0,2016,8,Foreign Used,1150000.0,1M-2M
+Audi A3,Audi,A3,Automatic,1800.0,2016,8,Foreign Used,2349999.0,2M-3M
+Audi Q5,Audi,Q5,Automatic,2000.0,2017,7,Foreign Used,4749000.0,3M-5M
+Toyota Alphard,Toyota,Alphard,Automatic,2400.0,2010,14,Kenyan Used,1550000.0,1M-2M
+Nissan Xtrail Hybrid,Nissan,Xtrail Hybrid,Automatic,2000.0,2016,8,Foreign Used,2450000.0,2M-3M
+Volkswagen Touareg,Volkswagen,Touareg,Automatic,3000.0,2014,10,Kenyan Used,4799999.0,3M-5M
+Audi Q7,Audi,Q7,Automatic,3000.0,2011,13,Kenyan Used,3250000.0,3M-5M
+Audi A4,Audi,A4,Automatic,2000.0,2016,8,Foreign Used,3150000.0,3M-5M
+Toyota Premio,Toyota,Premio,Automatic,1800.0,2015,9,Foreign Used,2250000.0,2M-3M
+Range Rover Vogue Autobiography,Range Rover,Vogue Autobiography,Automatic,4400.0,2014,10,Foreign Used,9999999.0,5M-10M
+Nissan Juke Nismo,Nissan,Juke Nismo,Automatic,1600.0,2013,11,Kenyan Used,1250000.0,1M-2M
+Bmw X3 X-Drive 35I,Bmw,X3 X-Drive 35I,Automatic,3000.0,2013,11,Kenyan Used,3199999.0,3M-5M
+Nissan Note,Nissan,Note,Automatic,1200.0,2015,9,Foreign Used,979999.0,500k-1M
+Subaru Legacy B4,Subaru,Legacy B4,Automatic,2500.0,2015,9,Kenyan Used,1999999.0,1M-2M
+Volkswagen Golf Alltrack,Volkswagen,Golf Alltrack,Automatic,1800.0,2016,8,Foreign Used,2299999.0,2M-3M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2017,7,Foreign Used,3850000.0,3M-5M
+Honda Jade,Honda,Jade,Automatic,1500.0,2016,8,Foreign Used,2099999.0,2M-3M
+Audi Q5 S Line,Audi,Q5 S Line,Automatic,2000.0,2016,8,Foreign Used,4350000.0,3M-5M
+Bmw X3 Xdrive 20D,Bmw,X3 Xdrive 20D,Automatic,2000.0,2016,8,Foreign Used,3799999.0,3M-5M
+Toyota Hilux,Toyota,Hilux,Manual,2800.0,1995,29,Kenyan Used,749999.0,500k-1M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2015,9,Kenyan Used,2899999.0,2M-3M
+Mazda Bongo,Mazda,Bongo,Automatic,1500.0,2012,12,Kenyan Used,849999.0,500k-1M
+Lexus Lx570,Lexus,Lx570,Automatic,5700.0,2015,9,Kenyan Used,9250000.0,5M-10M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2016,8,Kenyan Used,3899999.0,3M-5M
+Jeep Grand Cherokee,Jeep,Grand Cherokee,Automatic,3000.0,2013,11,Kenyan Used,4249000.0,3M-5M
+Mitsubishi Galant,Mitsubishi,Galant,Automatic,1800.0,2015,9,Kenyan Used,1399999.0,1M-2M
+Mercedes Benz Glc250 4Matic,Mercedes Benz,Glc250 4Matic,Automatic,2000.0,2016,8,Foreign Used,6349999.0,5M-10M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1250000.0,1M-2M
+Volvo S60 T3,Volvo,S60 T3,Automatic,1500.0,2016,8,Foreign Used,2250000.0,2M-3M
+Nissan Skyline Gt,Nissan,Skyline Gt,Automatic,2000.0,2015,9,Foreign Used,2199999.0,2M-3M
+Toyota Sienta,Toyota,Sienta,Automatic,1500.0,2016,8,Foreign Used,1450000.0,1M-2M
+Audi A5 Sline,Audi,A5 Sline,Automatic,2000.0,2016,8,Foreign Used,3650000.0,3M-5M
+Mazda Cx5,Mazda,Cx5,Automatic,2200.0,2016,8,Foreign Used,2999999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1120000.0,1M-2M
+Ford Ranger Wildtrack,Ford,Ranger Wildtrack,Automatic,3200.0,2019,5,Foreign Used,5950000.0,5M-10M
+Jeep Cherokee,Jeep,Cherokee,Automatic,3200.0,2014,10,Kenyan Used,2950000.0,2M-3M
+Mazda Cx5,Mazda,Cx5,Automatic,2500.0,2016,8,Foreign Used,3499999.0,3M-5M
+Mazda Cx3,Mazda,Cx3,Automatic,1500.0,2016,8,Foreign Used,2099999.0,2M-3M
+Toyota Vitz,Toyota,Vitz,Automatic,1300.0,2015,9,Foreign Used,1199999.0,1M-2M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2016,8,Foreign Used,1249999.0,1M-2M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2013,11,Kenyan Used,2849000.0,2M-3M
+Tata Dt Dslb,Tata,Dt Dslb,Automatic,2956.0,2017,7,Kenyan Used,2699999.0,2M-3M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2016,8,Foreign Used,1950000.0,1M-2M
+Audi Q5 S-Line,Audi,Q5 S-Line,Automatic,2000.0,2016,8,Foreign Used,4350000.0,3M-5M
+Audi A6,Audi,A6,Automatic,2800.0,2015,9,Kenyan Used,3599999.0,3M-5M
+Ford Ranger,Ford,Ranger,Automatic,3200.0,2016,8,Kenyan Used,5650000.0,5M-10M
+Volvo Xc60 D4,Volvo,Xc60 D4,Automatic,2000.0,2016,8,Foreign Used,3149999.0,3M-5M
+Toyota Aqua,Toyota,Aqua,Automatic,1500.0,2016,8,Foreign Used,1499999.0,1M-2M
+Toyota Harrier,Toyota,Harrier,Automatic,2000.0,2014,10,Kenyan Used,2999999.0,2M-3M
+Nissan Xtrail Hybrid,Nissan,Xtrail Hybrid,Automatic,2000.0,2016,8,Foreign Used,2999999.0,2M-3M
+Jeep Renegade,Jeep,Renegade,Automatic,1400.0,2016,8,Foreign Used,2899999.0,2M-3M
+Toyota Toyoace Adf,Toyota,Toyoace Adf,Automatic,3000.0,2009,15,Kenyan Used,1450000.0,1M-2M
+Range Rover Sport,Range Rover,Sport,Automatic,3000.0,2016,8,Foreign Used,7799999.0,5M-10M
+Toyota Probox,Toyota,Probox,Automatic,1300.0,2016,8,Foreign Used,1250000.0,1M-2M
+Audi Q3,Audi,Q3,Automatic,2000.0,2016,8,Foreign Used,3650000.0,3M-5M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1070000.0,1M-2M
+"Bmw X1 Sdrive18I ""F48""",Bmw,"X1 Sdrive18I ""F48""",Automatic,1500.0,2016,8,Foreign Used,2999999.0,2M-3M
+Honda Crv,Honda,Crv,Automatic,2400.0,2016,8,Foreign Used,3299999.0,3M-5M
+Subaru Impreza G5,Subaru,Impreza G5,Automatic,1600.0,2015,9,Kenyan Used,1650000.0,1M-2M
+Volkswagen Variant R,Volkswagen,Variant R,Automatic,2000.0,2015,9,Kenyan Used,3549999.0,3M-5M
+Peugeot 508,Peugeot,508,Automatic,1600.0,2016,8,Foreign Used,2299999.0,2M-3M
+Subaru Outback,Subaru,Outback,Automatic,2500.0,2015,9,Kenyan Used,2565000.0,2M-3M
+Bmw 740I,Bmw,740I,Automatic,3000.0,2010,14,Kenyan Used,2699999.0,2M-3M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2017,7,Foreign Used,1350000.0,1M-2M
+Ford Everest Limited,Ford,Everest Limited,Automatic,3200.0,2015,9,Foreign Used,4300000.0,3M-5M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2016,8,Foreign Used,1330000.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1500.0,2016,8,Foreign Used,1350000.0,1M-2M
+Bmw 523I,Bmw,523I,Automatic,2000.0,2012,12,Kenyan Used,1850000.0,1M-2M
+Volkswagen Touareg,Volkswagen,Touareg,Automatic,3600.0,2016,8,Foreign Used,6350000.0,5M-10M
+Toyota Axio,Toyota,Axio,Automatic,1500.0,2016,8,Foreign Used,1850000.0,1M-2M
+Audi Rs3,Audi,Rs3,Automatic,2500.0,2016,8,Foreign Used,5199999.0,5M-10M
+Isuzu Elf Light Truck,Isuzu,Elf Light Truck,Automatic,3000.0,2014,10,Foreign Used,1850000.0,1M-2M
+Mercedes Benz E350 D,Mercedes Benz,E350 D,Automatic,3000.0,2017,7,Foreign Used,4356154.92,3M-5M
+Bmw X3 M-Sport,Bmw,X3 M-Sport,Automatic,2000.0,2016,8,Foreign Used,4000000.0,3M-5M
+Volkswagen Tiguan,Volkswagen,Tiguan,Automatic,1400.0,2018,6,Foreign Used,3950000.0,3M-5M
+Audi Q5 S-Line,Audi,Q5 S-Line,Automatic,2000.0,2016,8,Foreign Used,4300000.0,3M-5M
+Toyota C-Hr,Toyota,C-Hr,Automatic,1800.0,2016,8,Kenyan Used,3650000.0,3M-5M
+Subaru Forester Xt,Subaru,Forester Xt,Automatic,2000.0,2015,9,Foreign Used,3250000.0,3M-5M
+Nissan Sylphy,Nissan,Sylphy,Automatic,1800.0,2015,9,Foreign Used,1650000.0,1M-2M
+Mazda Axela,Mazda,Axela,Automatic,1500.0,2016,8,Foreign Used,1999999.0,1M-2M
+Range Rover Evoque,Range Rover,Evoque,Automatic,2000.0,2013,11,Kenyan Used,2900000.0,2M-3M
+Toyota C-Hr Hybrid,Toyota,C-Hr Hybrid,Automatic,1800.0,2016,8,Foreign Used,3799999.0,3M-5M
+Nissan Xtrail,Nissan,Xtrail,Automatic,2000.0,2016,8,Foreign Used,2449999.0,2M-3M
+Bmw 218I,Bmw,218I,Automatic,1500.0,2016,8,Foreign Used,2250000.0,2M-3M
+Nissan Note E-Power,Nissan,Note E-Power,Automatic,1200.0,2017,7,Foreign Used,1349999.0,1M-2M
+Nissan Juke,Nissan,Juke,Automatic,1499.0,2014,10,Kenyan Used,1350000.0,1M-2M
+Range Rover Vogue Tdv6,Range Rover,Vogue Tdv6,Automatic,3000.0,2016,8,Foreign Used,11500000.0,Above 10
+Range Rover Sport Hse,Range Rover,Sport Hse,Automatic,3000.0,2016,8,Foreign Used,9400000.0,5M-10M
+Mazda Cx-5,Mazda,Cx-5,Automatic,2500.0,2016,8,Foreign Used,3450000.0,3M-5M
+Ford Ranger,Ford,Ranger,Manual,3200.0,2013,11,Foreign Used,2800000.0,2M-3M
+Peugeot 208,Peugeot,208,Automatic,1200.0,2016,8,Foreign Used,1380000.0,1M-2M
+Subaru Legacy B4,Subaru,Legacy B4,Automatic,2500.0,2015,9,Foreign Used,2299999.0,2M-3M
+Toyota Vitz,Toyota,Vitz,Automatic,1000.0,2016,8,Foreign Used,1280000.0,1M-2M
+Mercedes Benz Glc 250 4Matic,Mercedes Benz,Glc 250 4Matic,Automatic,2000.0,2016,8,Foreign Used,4949999.0,3M-5M
+Toyota Voxy,Toyota,Voxy,Automatic,2000.0,2016,8,Foreign Used,2650000.0,2M-3M
+Subaru Xv,Subaru,Xv,Automatic,2000.0,2016,8,Foreign Used,2349999.0,2M-3M
+Nissan Note,Nissan,Note,Automatic,1200.0,2016,8,Foreign Used,1100000.0,1M-2M
+Honda Fit Shuttle Hybrid,Honda,Fit Shuttle Hybrid,Automatic,1500.0,2016,8,Foreign Used,1700000.0,1M-2M
+Mazda Demio,Mazda,Demio,Automatic,1300.0,2015,9,Foreign Used,1150000.0,1M-2M
+Mitsubishi Outlander,Mitsubishi,Outlander,Automatic,2000.0,2016,8,Foreign Used,3500000.0,3M-5M
+Mazda Axela,Mazda,Axela,Automatic,2200.0,2016,8,Foreign Used,1950000.0,1M-2M
+Audi Q7,Audi,Q7,Automatic,3600.0,2009,15,Kenyan Used,2500000.0,2M-3M
+Volvo S60 D4,Volvo,S60 D4,Automatic,1500.0,2016,8,Foreign Used,2200000.0,2M-3M
+Toyota Auris,Toyota,Auris,Automatic,1500.0,2016,8,Foreign Used,1800000.0,1M-2M
+Peugeot 207,Peugeot,207,Automatic,1600.0,2012,12,Kenyan Used,950000.0,500k-1M
+Mazda Atenza,Mazda,Atenza,Automatic,2200.0,2016,8,Foreign Used,2150000.0,2M-3M
+Isuzu Elf Light Truck,Isuzu,Elf Light Truck,Automatic,,2014,10,Foreign Used,1850000.0,1M-2M
+Jaguar Xj,Jaguar,Xj,Automatic,2000.0,2014,10,Foreign Used,4100000.0,3M-5M

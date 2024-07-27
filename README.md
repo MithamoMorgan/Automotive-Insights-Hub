@@ -7,5 +7,18 @@ In this digital realm, I harness the power of data to uncover trends, make disco
 1.Python: Webscraping,Data Cleaning and exploratory data analysis(EDA).</br>
 2.SQL: Exploratory data analysis(EDA).</br>
 3.Tableau: Visual analytics.
-## Source
-I scraped data used in this project [KAI AND KARO Car Dealership](https://www.kaiandkaro.com/) a trusted car dealer destination for a wide range of cars in Kenya.
+## Data Collection
+I scraped data used in this project from [kai and karo](https://www.kaiandkaro.com/) a trusted car dealer destination for a wide range of cars in Kenya.
+My data has 10 columns:
+...Vehicle
+...Manufacturer
+...Model
+...Transmission Type
+...CC
+...Year
+...Car
+...Age
+...Usage
+...Origin
+...Price
+...Price Range

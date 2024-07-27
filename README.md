@@ -30,6 +30,7 @@ My data has 10 columns:
 * Check for duplicates
 * Validate data types
 * Check for logical consistency<br>
-Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Preprocessing.ipynb) to the cleaning process.
+
+->Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Preprocessing.ipynb) to the cleaning process.
 ## Data Analysis
 

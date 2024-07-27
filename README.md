@@ -24,3 +24,10 @@ My data has 10 columns:
 * Origin
 * Price
 * Price Range
+## Data Quality Check
+* Check for missing values
+* Check for duplicates
+* Validate data types
+* Check for logical consistency
+## Data Analysis
+

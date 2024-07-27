@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to the Automotive Insights Hub your gateway to unraveling the mysteries of the Kenyan automotive industry.
 In this digital realm, I harness the power of data to uncover trends, make discoveries and drive informed decisions.
+## Objective
+The objective of this analysis is to investigate the pricing patterns of cars in Kenya across various brands and models. By thoroughly analyzing data on car prices, models, and brands, this study aims to offer valuable insights that can empower consumers to make well-informed purchasing decisions. Additionally, this analysis seeks to identify market trends and price variations to aid dealers in strategic planning and competitive positioning.
 ## Tools
 1.Python: Webscraping,Data Cleaning and exploratory data analysis(EDA).</br>
 2.SQL: Exploratory data analysis(EDA).</br>

@@ -29,7 +29,7 @@ My data has 10 columns:
 * Check for missing values
 * Check for duplicates
 * Validate data types
-* Check for logical consistency
-Here is the [code]() to the cleaning process.
+* Check for logical consistency<br>
+Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Preprocessing.ipynb) to the cleaning process.
 ## Data Analysis
 

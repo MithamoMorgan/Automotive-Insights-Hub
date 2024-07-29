@@ -1,6 +1,6 @@
 # Automotive-Insights-Hub
 
-![](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Images/pexels-lloyd-freeman-599375-1429775.jpg)
+![](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Images/WhatsApp%20Image%202024-07-27%20at%205.56.03%20PM.jpeg)
 ## Introduction
 Welcome to the Automotive Insights Hub your gateway to unraveling the mysteries of the Kenyan automotive industry.
 In this digital realm, I harness the power of data to uncover trends, make discoveries and drive informed decisions.

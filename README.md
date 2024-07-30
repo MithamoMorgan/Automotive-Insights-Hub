@@ -45,5 +45,19 @@ My data has 10 columns:
 ## Data Analysis
 The key objective of this stage was to get the answers to the above questions.
 Here is the detailed [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Analysis.ipynb) for the analysis.
-## Interpretation
-Work in progress...
+## Findings
+The most common car make is Toyota with 331 models,followed by Nissan with 143 models and thirdly mazda 131 models.
+
+The price of cars tends to increase by approximately 203920.88 Ksh each year from 1979 to 2024. This positive trend suggests that over this period, the average price of cars has been growing.
+
+The average price of cars by origin is Ksh 3,463,466.98 for foreign used cars which accounts to 61.2% of the average total price and Ksh Ksh 2,195,917.30 for Kenyan used cars accounting to 38.8%.
+
+Range rover has the highest average price of Ksh 8,107,691 followed by Land Rover with Ksh 7,282,352.
+
+The correlation between engine displacement and price is 0.531. This indicates a moderate correlation, it’s not a perfect correlation (which would be 1.0).This means that while there is a general trend that larger engine displacement tends to be associated with higher prices, there are exceptions and other factors influencing price as well.
+
+A correlation coefficient of -0.403 between price and car age suggests a moderate negative relationship. This means that as the age of the car increases, the price tends to decrease, though the relationship isn't extremely strong.In practical terms, it implies that older cars generally cost less, but there are other factors influencing the price as well.
+
+The engine displacement of cars tends to increase by approximately 9.85 cc each year from 1979 to 2024. This positive trend suggests that over this period, the average engine displacement of cars has been growing.
+
+Once again Land Rover and Range Rover have the widest range of price for their cars with Land Rover coming first with a range of Ksh 21,300,000,followed by Range Rover with Ksh 15,850,000

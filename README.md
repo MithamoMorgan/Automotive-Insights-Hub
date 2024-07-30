@@ -46,4 +46,4 @@ My data has 10 columns:
 ## Data Analysis
 The key objective of this stage was to get the answers to the above questions.
 Here is the detailed [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Analysis.ipynb) for the analysis.
-
+## Interpretation

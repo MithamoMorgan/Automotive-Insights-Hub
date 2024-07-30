@@ -41,7 +41,7 @@ My data has 10 columns:
 5.Which car make has the highest average price?</br>
 6.Is there a correlation between engine displacement and price?</br>
 7.Is there a relationship between age of the car and price?</br>
-8.Which car make are the most effective ie lowest price per cc?</br>
+8.Which car make are the most cost effective ie lowest price per cc?</br>
 9.Is there a trend towards larger or smaller engine displacement over the years?</br>
 10.Which manufacturers have a widest range of price for their cars?</br>
 ## Data Analysis

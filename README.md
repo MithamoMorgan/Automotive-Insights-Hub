@@ -44,4 +44,6 @@ My data has 10 columns:
 8.Is there a trend towards larger or smaller engine displacement over the years?</br>
 9.Which manufacturers have a widest range of price for their cars?</br>
 ## Data Analysis
+The key objective of this stage was to get the answers to the above questions.
 Here is the detailed [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/Data_Analysis.ipynb) for the analysis.
+

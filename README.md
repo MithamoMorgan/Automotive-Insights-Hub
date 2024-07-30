@@ -13,16 +13,16 @@ The objective of this analysis is to investigate the pricing patterns of cars in
 I scraped data used in this project from [kai and karo motors](https://www.kaiandkaro.com/) a trusted car dealer destination for a wide range of cars in Kenya.
 Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/kai%20_karo%20_data_scraping.ipynb).</br>
 My data has 10 columns:
-* Vehicle</br>
-* Manufacturer</br>
-* Model</br>
-* Transmission Type</br>
-* CC</br>
-* Year</br>
-* Car Age</br>
-* Usage Origin</br>
-* Price
-* Price Range
+* Vehicle: Car make and model name</br>
+* Manufacturer: The make of the car</br>
+* Model: Specific car model</br>
+* Transmission Type: System in a vehicle that transmits power from the engine to the wheels
+* CC: Total volume of all the cylinders in an engine</br></br>
+* Year: The year the car was manufactured</br> 
+* Car Age: The age of the car to date</br>
+* Usage Origin: Location where the car was previously used</br>
+* Price: The actual price of the car
+* Price Range: 
 ## Data Quality Check
 * Check for missing values
 * Check for duplicates

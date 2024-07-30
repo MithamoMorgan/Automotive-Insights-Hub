@@ -48,7 +48,7 @@ Here is the detailed [code](https://github.com/MorganTheAnalyst/Automotive-Insig
 ## Findings
 The most common car make is Toyota with 331 models,followed by Nissan with 143 models and thirdly mazda 131 models.
 
-The price of cars tends to increase by approximately 203920.88 Ksh each year from 1979 to 2024. This positive trend suggests that over this period, the average price of cars has been growing.
+The price of cars tends to increase by approximately Ksh 203,920.88 each year from 1979 to 2024. This positive trend suggests that over this period, the average price of cars has been growing.
 
 The average price of cars by origin is Ksh 3,463,466.98 for foreign used cars which accounts to 61.2% of the average total price and Ksh Ksh 2,195,917.30 for Kenyan used cars accounting to 38.8%.
 

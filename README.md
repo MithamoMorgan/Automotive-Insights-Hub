@@ -19,10 +19,8 @@ My data has 10 columns:
 * Transmission Type</br>
 * CC</br>
 * Year</br>
-* Car</br>
-* Age</br>
-* Usage</br>
-* Origin
+* Car Age</br>
+* Usage Origin</br>
 * Price
 * Price Range
 ## Data Quality Check

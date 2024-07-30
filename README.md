@@ -22,7 +22,7 @@ My data has 10 columns:
 * Car Age: The age of the car to date</br>
 * Usage Origin: Location where the car was previously used</br>
 * Price: The actual price of the car
-* Price Range: 
+* Price Range: Price brackets
 ## Data Quality Check
 * Check for missing values
 * Check for duplicates

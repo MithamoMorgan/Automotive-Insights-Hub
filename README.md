@@ -17,7 +17,7 @@ My data has 10 columns:
 * Manufacturer: The make of the car</br>
 * Model: Specific car model</br>
 * Transmission Type: System in a vehicle that transmits power from the engine to the wheels
-* CC: Total volume of all the cylinders in an engine</br></br>
+* CC: Total volume of all the cylinders in an engine</br>
 * Year: The year the car was manufactured</br> 
 * Car Age: The age of the car to date</br>
 * Usage Origin: Location where the car was previously used</br>

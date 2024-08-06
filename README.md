@@ -9,6 +9,7 @@ The objective of this analysis is to investigate the pricing patterns of cars in
 ## Tools
 * Python: Webscraping,Data Cleaning and exploratory data analysis(EDA).</br>
 * Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib (Data visualization)
+* Tableau: Creating a summary dashboard.
 ## Data Collection
 I scraped data used in this project from [kai and karo motors](https://www.kaiandkaro.com/) a trusted car dealer destination for a wide range of cars in Kenya.
 Here is the [code](https://github.com/MorganTheAnalyst/Automotive-Insights-Hub/blob/main/Code%20%26%20CSV_Files/kai%20_karo%20_data_scraping.ipynb).</br>
